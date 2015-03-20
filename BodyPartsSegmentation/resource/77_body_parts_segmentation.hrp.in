@@ -1,0 +1,76 @@
+<!--
+#
+# STARLING PROJECT 
+#
+# LIRIS - Laboratoire d'InfoRmatique en Image et Systèmes d'information 
+#
+# Copyright: 2012 - 2015 Eric Lombardi (eric.lombardi@liris.cnrs.fr), LIRIS (liris.cnrs.fr), CNRS (www.cnrs.fr)
+#
+#
+#    This program is free software: you can redistribute it and/or modify it
+#    under the terms of the GNU General Public License version 3, as published
+#    by the Free Software Foundation.
+#
+#    This program is distributed in the hope that it will be useful, but
+#    WITHOUT ANY WARRANTY; without even the implied warranties of
+#    MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR
+#    PURPOSE.  See the GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License along
+#    with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#    For further information, check the COPYING file distributed with this software.
+#
+-->    
+
+<harpia>
+<GcState>
+	<block type="0" id="2">
+		<position x="23.0" y="57.0"/>
+	</block>
+	<block type="1012" id="4">
+		<position x="191.0" y="58.0"/>
+	</block>
+	<block type="1" id="5">
+		<position x="427.0" y="58.0"/>
+	</block>
+</GcState>
+<properties>
+  <block id="2" type="0">
+		<property desc="file name" name="_PARAM1_" type="filename" value="resource/depth-0150.png" />
+	</block>
+  <block id="4" type="1012">
+		<property desc="forest parameter file name" name="_FORESTFILENAME_" type="filename" value="@_MODULE_DIR_@/resource/forest_param.txt" />
+		<property desc="legend image file name" name="_GROUNDFILENAME_" type="filename" value="@_MODULE_DIR_@/resource/ground.png" />
+		<property desc="display legend ?" name="_LEGEND_" value="true" />
+	</block>
+  <block id="5" type="1">
+		<property desc="file name" name="_PARAM1_" type="filename" value="test.tmp/77_output.png" />
+	</block>
+  </properties>
+<network>
+<block type="0" id="2">
+<inputs>
+</inputs>
+<outputs>
+<output id="1" inBlock="4" input="1"/>
+</outputs>
+</block>
+<block type="1012" id="4">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="5" input="1"/>
+</outputs>
+</block>
+<block type="1" id="5">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="--" input="--"/>
+</outputs>
+</block>
+</network>
+</harpia>

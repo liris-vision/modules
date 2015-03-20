@@ -1,0 +1,87 @@
+<properties>
+    <!-- block parameters -->
+
+    <block type='1016' id=''>
+	<property name='PARAM_COLORSPACE' value='YUV' desc='Color space' values='RGB;YUV;LAB'/>
+        <!-- <property name='PARAM_NBITER' value='100' desc='Number of iterations'/> -->
+	<property name='PARAM_INSIDE_MODE' value='REGION' desc='Inside mode' values='REGION;REGION_INIT;BAND'/>
+	<property name='PARAM_OUTSIDE_MODE' value='LINE' desc='Outside mode' values='REGION;BAND;LINE'/>
+	<property name='PARAM_WEIGHT_GRADIENT' value='0' desc='Gradient weight'/>
+	<property name='PARAM_WEIGHT_REGION' value='2' desc='Region weight'/>
+	<property name='PARAM_WEIGHT_BALLOON' value='-0.3' desc='Balloon weight'/>
+	<property name='PARAM_STDDEVIATION_GAUSSIANSMOOTH' value='2.0' desc='Std deviation of gaussian filter'/>
+    </block>
+
+    <!-- help -->
+
+    <help>
+Segments one image using the narrow band region-based 2D active contour model (implicit implementation). See [Mille, CVIU 2009] for details.
+
+Parameters:
+ - color space (symbolic constant in {RGB, YUV, LAB})
+ - inner region energy type (symbolic constant in {REGION, REGION_INIT, BAND})
+ - outer region energy type (symbolic constant in {REGION, BAND, LINE})
+ - weight of gradient energy (positive real value)
+ - weight of region energy (positive real value)
+ - weight of balloon energy (real value)
+ - standard deviation of gaussian filter for regularization (positive real value)
+
+Inputs/ouputs:
+ - input1: 8-bit grayscale or 24-bit RGB input image,
+ - input2: centre of initial ellipse,
+ - input3: radii of initial ellipse,
+ - output1: 8-bit grayscale binary mask of the segmented region.
+    </help>
+
+    <!-- block description -->
+
+    <label>Active contour</label>
+    <input id='1' type='cv::Mat' desc='Input image'/>
+    <input id='2' type='cv::Point' desc='Centre of initial ellipse'/>
+    <input id='3' type='cv::Point' desc='Radii of initial ellipse'/>
+    <output id='1' type='cv::Mat' desc='Output image'/>
+    <isstream>false</isstream>
+    <icon>images/liris.png</icon>
+    <color>50:100:200:150</color>
+    <description>Just for example</description>
+    <treegroup>Liris-Vision</treegroup>
+
+    <!-- informations for code generation -->
+
+    <includepath path='@_MODULE_DIR_@/src'/>
+
+    <library name='activecontour'/>
+
+    <librarypath path='@_MODULE_DIR_@/build'/>
+
+    <includes>
+        <![CDATA[
+#include "activecontour_main.h"
+        ]]>
+    </includes>
+
+    <functions>
+        <![CDATA[
+        ]]>
+    </functions>
+
+    <initializations>
+ActiveContour_OpenParams acParams__BLOCKID__;
+acParams__BLOCKID__.colorSpace = CDeformableModelBase::PARAM_COLORSPACE;
+acParams__BLOCKID__.insideMode = CDeformableModelBase::PARAM_INSIDE_MODE;
+acParams__BLOCKID__.outsideMode = CDeformableModelBase::PARAM_OUTSIDE_MODE;
+acParams__BLOCKID__.weightGradient = PARAM_WEIGHT_GRADIENT;
+acParams__BLOCKID__.weightRegion = PARAM_WEIGHT_REGION;
+acParams__BLOCKID__.weightBalloon = PARAM_WEIGHT_BALLOON;
+acParams__BLOCKID__.stdDeviationGaussianSmooth = PARAM_STDDEVIATION_GAUSSIANSMOOTH;
+    </initializations>
+
+    <processings>
+        <![CDATA[
+ExecActiveContour(_INPUT1_, _OUTPUT1_, _INPUT2_, _INPUT3_, acParams__BLOCKID__);
+        ]]>
+    </processings>
+
+    <cleanings>
+    </cleanings>
+</properties>

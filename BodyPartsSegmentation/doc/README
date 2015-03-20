@@ -1,0 +1,58 @@
+Body parts segmentation module
+---------------------------------------
+
+Segmentation of depth images into 10 different body parts using random forests and depth features (and alternatively also edge features from additional grayscale images).
+
+
+Dependencies
+-----------
+
+ - CMake >= 2.8
+ - OpenCV >= 2.1 (Linux), OpenCV 2.3.1 (Windows)
+
+
+Compilation on Ubuntu 12.04 64 bits
+-------------------------------------
+
+	# install dependencies
+	$ sudo aptitude install cmake
+	$ sudo aptitude install libopencv-dev libcv-dev libhighgui-dev libcvaux-dev
+
+	# prepare build directory
+	cd BodyPartsSegmentation
+	mkdir build && cd build
+
+	# build in release mode
+	$ cmake -DSTARLING_DIR=path_to_starling_dir ..
+	$ make
+	$ make install  # copy files into Starling
+
+	# build in release mode with a specific version of OpenCV
+	$ cmake -DSTARLING_DIR=path_to_starling_dir -DOpenCV_DIR=/path_to_directory_containing_OpenCVConfig.cmake ..
+	$ make
+	$ make install  # copy files into Starling
+
+	# build in debug mode
+	$ cmake -DSTARLING_DIR=path_to_starling_dir -DCMAKE_BUILD_TYPE=Debug ..
+	$ make
+	$ make install  # copy files into Starling
+
+
+Compilation on Windows 7 64 bits
+----------------------------------
+
+	- launch CMake GUI
+	- Where is the source code = ".../BodyPartsSegmentation"
+	- Where to build the binaries = ".../BodyPartsSegmentation/build"
+	- click "Configure"
+	- set variable "OpenCV_DIR" to ".../opencv_._._" (the directory must contain 'OpenCVConfig.cmake' file)
+	- set variable "STARLING_DIR" to Starling directory
+	- click "Generate"
+	- open "BodyPartsSegmentation/build/BodyPartsSegmentation.sln" solution with visual c++, select 'release' mode, then generate the 'INSTALL' project
+
+
+Executables
+-----------
+
+ - No executable provided.
+

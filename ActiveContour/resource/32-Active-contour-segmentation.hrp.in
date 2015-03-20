@@ -1,0 +1,171 @@
+<!--
+#
+# STARLING PROJECT 
+#
+# LIRIS - Laboratoire d'InfoRmatique en Image et Systèmes d'information 
+#
+# Copyright: 2012 - 2015 Eric Lombardi (eric.lombardi@liris.cnrs.fr), LIRIS (liris.cnrs.fr), CNRS (www.cnrs.fr)
+#
+#
+#    This program is free software: you can redistribute it and/or modify it
+#    under the terms of the GNU General Public License version 3, as published
+#    by the Free Software Foundation.
+#
+#    This program is distributed in the hope that it will be useful, but
+#    WITHOUT ANY WARRANTY; without even the implied warranties of
+#    MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR
+#    PURPOSE.  See the GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License along
+#    with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#    For further information, check the COPYING file distributed with this software.
+#
+-->    
+
+<harpia>
+<GcState>
+	<block type="1016" id="1">
+		<position x="241.0" y="102.0"/>
+	</block>
+	<block type="0" id="2">
+		<position x="33.0" y="44.0"/>
+	</block>
+	<block type="22" id="3">
+		<position x="38.0" y="211.0"/>
+	</block>
+	<block type="22" id="4">
+		<position x="38.0" y="140.0"/>
+	</block>
+	<block type="2" id="7">
+		<position x="427.0" y="100.0"/>
+	</block>
+	<block type="3010" id="9">
+		<position x="425.0" y="190.0"/>
+	</block>
+	<block type="3021" id="10">
+		<position x="609.0" y="45.0"/>
+	</block>
+	<block type="2" id="11">
+		<position x="762.0" y="45.0"/>
+	</block>
+	<block type="2" id="12">
+		<position x="238.0" y="5.0"/>
+	</block>
+</GcState>
+<properties>
+  <block id="2" type="0">
+		<property desc="file name" name="_PARAM1_" type="filename" value="@_MODULE_DIR_@/resource/color_objects1.jpg" />
+	</block>
+  <block id="3" type="22">
+		<property desc="X coordinate" name="_PARAM1_" value="15" />
+		<property desc="Y coordinate" name="_PARAM2_" value="15" />
+	</block>
+  <block id="4" type="22">
+		<property desc="X coordinate" name="_PARAM1_" value="528" />
+		<property desc="Y coordinate" name="_PARAM2_" value="260" />
+	</block>
+  <block id="1" type="1016">
+	<property desc="Color space" name="PARAM_COLORSPACE" value="YUV" values="RGB;YUV;LAB" />
+        
+	<property desc="Inside mode" name="PARAM_INSIDE_MODE" value="REGION" values="REGION;REGION_INIT;BAND" />
+	<property desc="Outside mode" name="PARAM_OUTSIDE_MODE" value="LINE" values="REGION;BAND;LINE" />
+	<property desc="Gradient weight" name="PARAM_WEIGHT_GRADIENT" value="0" />
+	<property desc="Region weight" name="PARAM_WEIGHT_REGION" value="2" />
+	<property desc="Balloon weight" name="PARAM_WEIGHT_BALLOON" value="-0.3" />
+	<property desc="Std deviation of gaussian filter" name="PARAM_STDDEVIATION_GAUSSIANSMOOTH" value="2.0" />
+    </block>
+  <block id="7" type="2">
+		<property desc="window name" name="_PARAM1_" value="Segmentation mask" />
+	</block>
+  <block id="9" type="3010">
+    </block>
+  <block id="10" type="3021">
+    </block>
+  <block id="11" type="2">
+		<property desc="window name" name="_PARAM1_" value="Segmented image" />
+	</block>
+  <block id="12" type="2">
+		<property desc="window name" name="_PARAM1_" value="Input image" />
+	</block>
+  </properties>
+<network>
+<block type="0" id="2">
+<inputs>
+</inputs>
+<outputs>
+<output id="1" inBlock="1" input="1"/>
+<output id="1" inBlock="10" input="1"/>
+<output id="1" inBlock="12" input="1"/>
+</outputs>
+</block>
+<block type="22" id="3">
+<inputs>
+</inputs>
+<outputs>
+<output id="1" inBlock="1" input="3"/>
+</outputs>
+</block>
+<block type="22" id="4">
+<inputs>
+</inputs>
+<outputs>
+<output id="1" inBlock="1" input="2"/>
+</outputs>
+</block>
+<block type="1016" id="1">
+<inputs>
+<input id="1"/>
+<input id="2"/>
+<input id="3"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="7" input="1"/>
+<output id="1" inBlock="9" input="1"/>
+<output id="1" inBlock="9" input="2"/>
+<output id="1" inBlock="9" input="3"/>
+</outputs>
+</block>
+<block type="2" id="7">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+</outputs>
+</block>
+<block type="3010" id="9">
+<inputs>
+<input id="1"/>
+<input id="2"/>
+<input id="3"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="10" input="2"/>
+</outputs>
+</block>
+<block type="3021" id="10">
+<inputs>
+<input id="1"/>
+<input id="2"/>
+<input id="3"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="11" input="1"/>
+</outputs>
+</block>
+<block type="2" id="11">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+</outputs>
+</block>
+<block type="2" id="12">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+</outputs>
+</block>
+</network>
+</harpia>

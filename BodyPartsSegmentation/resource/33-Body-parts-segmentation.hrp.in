@@ -1,0 +1,70 @@
+<harpia>
+<GcState>
+	<block type="0" id="2">
+		<position x="23.0" y="57.0"/>
+	</block>
+	<block type="1012" id="4">
+		<position x="191.0" y="58.0"/>
+	</block>
+	<block type="2" id="6">
+		<position x="445.0" y="59.0"/>
+	</block>
+	<block type="2" id="7">
+		<position x="200.0" y="155.0"/>
+	</block>
+</GcState>
+<properties>
+  <block id="2" type="0">
+		<property desc="file name" name="_PARAM1_" type="filename" value="resource/depth-0150.png" />
+	</block>
+  <block id="4" type="1012">
+		<property desc="forest parameter file name" name="_FORESTFILENAME_" type="filename" value="@_MODULE_DIR_@/resource/forest_param.txt" />
+		<property desc="legend image file name" name="_GROUNDFILENAME_" type="filename" value="@_MODULE_DIR_@/resource/ground.png" />
+		<property desc="display legend ?" name="_LEGEND_" value="true" />
+	</block>
+  <block id="6" type="2">
+		<property desc="window name" name="_PARAM1_" value="Segmented image" />
+		<property desc="scaling" name="_SCALING_" type="selector" value="Auto" values="None;Auto;Manual" />
+		<property desc="scaling min" name="_SCALINGMIN_" value="0" />
+		<property desc="scaling max" name="_SCALINGMAX_" value="255" />
+	</block>
+  <block id="7" type="2">
+		<property desc="window name" name="_PARAM1_" value="Depth image" />
+		<property desc="scaling" name="_SCALING_" type="selector" value="Auto" values="None;Auto;Manual" />
+		<property desc="scaling min" name="_SCALINGMIN_" value="0" />
+		<property desc="scaling max" name="_SCALINGMAX_" value="255" />
+	</block>
+  </properties>
+<network>
+<block type="0" id="2">
+<inputs>
+</inputs>
+<outputs>
+<output id="1" inBlock="4" input="1"/>
+<output id="1" inBlock="7" input="1"/>
+</outputs>
+</block>
+<block type="1012" id="4">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="6" input="1"/>
+</outputs>
+</block>
+<block type="2" id="6">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+</outputs>
+</block>
+<block type="2" id="7">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+</outputs>
+</block>
+</network>
+</harpia>

@@ -1,0 +1,77 @@
+<properties>
+
+	<!-- legacy block parameters -->	
+
+	<block type='1012' id=''>
+		<property name='_FORESTFILENAME_' value='@_MODULE_DIR_@/resource/forest_param.txt' desc='forest parameter file name' type='filename'/>
+		<property name='_GROUNDFILENAME_' value='@_MODULE_DIR_@/resource/ground.png' desc='legend image file name' type='filename'/>
+		<property name='_LEGEND_' value='false' desc='display legend ?'/>
+	</block>
+
+	<!-- help -->	
+
+	<help>
+Segments Kinect 16 bits depth images into 10 different body parts, using random forests and depth features (and alternatively also edge features from additional grayscale images).
+
+Parameters:
+ - forestFileName (string): name of the file containing the random forests parameters, 
+ - groundFileName (string): name of the file containing the legend image. 
+ - legend (true|false) : displays legend on output image.
+
+Inputs/outputs:
+ - input1 : Kinect 16 bits 1 channel depth image only,
+ - output1 : segmented image.
+	</help>
+
+	<!-- block description -->	
+
+	<label>Body parts segmentation</label>
+	<input id='1' type='cv::Mat'/>
+	<output id='1' type='cv::Mat'/>
+	<isstream>true</isstream>
+	<icon>images/liris.png</icon>
+	<color>50:100:200:150</color>
+	<description>Body parts segmentation using Kinect depth image.</description>
+	<treegroup>Liris-Vision</treegroup>
+	
+	<!-- informations for code generation -->	
+
+	<includepath path='@_MODULE_DIR_@/..' />
+
+	<library name='bodypartssegmentation' />
+
+	<librarypath path='@_MODULE_DIR_@/build' />
+
+	<includes>
+		<![CDATA[
+#include "BodyPartsSegmentation/src/bodypartsegmentation.h"
+		]]>
+	</includes>
+
+	<functions>
+		<![CDATA[
+		]]>
+	</functions>
+	
+	<initializations>
+		<![CDATA[
+// initialize body parts segmentation
+BodyPartSegmentation bodyPartSegm_block_BLOCKID__( "_FORESTFILENAME_", "_GROUNDFILENAME_");
+		]]>
+	</initializations>
+
+	<processings>
+		<![CDATA[
+bodyPartSegm_block_BLOCKID__.run( *(_INPUT1_), _LEGEND_, *(_OUTPUT1_));
+		]]>
+	</processings>
+
+	<cleanings>
+		<![CDATA[
+		]]>
+	</cleanings>
+
+</properties>
+
+
+

@@ -1,0 +1,85 @@
+PixelTrack  
+----------
+© Stefan Duffner, LIRIS, INSA de Lyon, France, 2013
+
+Fast tracking of deformable generic objects in videos. 
+
+This code is for research purposes only.
+If you use this code please cite the following paper:
+
+@InProceedings{duffner_iccv13,
+author = {Duffner, Stefan and Garcia, Christophe},
+title = {PixelTrack: a fast adaptive algorithm for tracking non-rigid objects},
+booktitle = {Proceedings of the International Conference on Computer Vision (ICCV)},
+address = {Sidney, AUS},
+year = {2013},
+month = dec
+}
+
+More information on:
+http://www.duffner-net.de/research_pixeltrack.html
+
+
+License
+-------
+GNU General Public License 3.0 (GPLv3)
+
+See included file "LICENSE" and http://www.gnu.org/licenses/gpl-3.0.html.
+
+
+Dependencies
+-----------
+
+ - CMake >= 2.8
+ - OpenCV >= 2.3.1
+
+
+Compilation on Ubuntu 12.04 64 bits
+-------------------------------------
+
+	# install dependencies
+	$ sudo aptitude install cmake
+	$ sudo aptitude install libopencv-dev libcv-dev libhighgui-dev libcvaux-dev
+
+	# prepare build directory
+	cd PixeltrackSD
+	mkdir build && cd build
+
+	# build in release mode
+	$ cmake -DSTARLING_DIR=path_to_starling_dir ..
+	$ make
+	$ make install  # copy files into Starling
+	$ ./pixeltrack
+
+	# build in release mode with a specific version of OpenCV
+	$ cmake -DSTARLING_DIR=path_to_starling_dir -DOpenCV_DIR=/path_to_directory_containing_OpenCVConfig.cmake ..
+	$ make
+	$ make install  # copy files into Starling
+	$ ./pixeltrack
+
+	# build in debug mode
+	$ cmake -DSTARLING_DIR=path_to_starling_dir -DCMAKE_BUILD_TYPE=Debug ..
+	$ make
+	$ make install  # copy files into Starling
+	$ ./pixeltrack
+
+
+Compilation on Windows 7 64 bits
+----------------------------------
+
+	- launch CMake GUI
+	- Where is the source code = ".../PixeltrackerSD"
+	- Where to build the binaries = ".../PixeltrackerSD/build"
+	- click "Configure"
+	- set variable "OpenCV_DIR" to ".../opencv_._._" (the directory must contain 'OpenCVConfig.cmake' file)
+	- set variable "STARLING_DIR" to Starling directory
+	- click "Generate"
+	- open "PixeltrackerSD/build/PixeltrackerSD.sln" solution with visual c++, select 'release' mode, then generate the 'INSTALL' project
+
+
+Executables
+-----------
+
+ - pixeltrack: track an object in a video (linux only).
+
+

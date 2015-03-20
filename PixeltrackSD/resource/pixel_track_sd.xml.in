@@ -1,0 +1,104 @@
+<properties>
+
+	<!-- legacy block parameters -->	
+
+	<block type='1015' id=''>
+		<property name='_BBOX_X_' value='10' desc='bounding box x position'/>
+		<property name='_BBOX_Y_' value='15' desc='bounding box y position'/>
+		<property name='_BBOX_W_' value='20' desc='bounding box width'/>
+		<property name='_BBOX_H_' value='15' desc='bounding box height'/>
+		<property name='_DETECTOR_UPDATE_FACTOR_' value='0.1' desc='detector update factor'/>
+		<property name='_SEGMENTATION_UPDATE_FACTOR_' value='0.1' desc='segmentation update factor'/>
+		<property name='_SEARCH_SIZE_' value='2.0' desc='search size'/>
+	</block>
+
+	<!-- help -->	
+
+	<help>
+Tracks deformable generic objects in videos.
+
+Parameters:
+ - bbox_x (int): bounding box initial x position, 
+ - bbox_y (int): bounding box initial y position, 
+ - bbox_w (int): bounding box initial width, 
+ - bbox_h (int): bounding box initial height, 
+ - detectorUpdateFactor (float): update factor (gamma) for the detection model, 
+ - segmentationUpdateFactor (float): update factor (delta) for the segmentation model, 
+ - searchSize (float): relative enlargement factor of the search window w.r.t. the current object bounding box.
+
+Inputs/outputs:
+ - input1 : 1 channel or 3 channels, 8 bits image to parse (results are better with 3 channels images),
+ - output1 : object detection list.
+	</help>
+
+	<!-- block description -->	
+
+	<label>Pixel Track SD</label>
+	<input id='1' type='cv::Mat'/>
+	<output id='1' type='std::vector&lt;cv::Rect&gt;'/>
+	<isstream>false</isstream>
+	<icon>images/liris.png</icon>
+	<color>50:100:200:150</color>
+	<description>Deformable object tracker.</description>
+	<treegroup>Liris-Vision</treegroup>
+	
+	<!-- informations for code generation -->	
+
+	<includepath path='@_MODULE_DIR_@/..' />
+
+	<library name='pixeltracker' />
+
+	<librarypath path='@_MODULE_DIR_@/build' />
+
+	<includes>
+		<![CDATA[
+#include "PixeltrackSD/src/PixelTracker.h"
+		]]>
+	</includes>
+
+	<functions>
+		<![CDATA[
+void pixelTrackerSD( PixelTracker *tracker, const cv::Mat *in, std::vector<cv::Rect> *out1)
+{
+	if( (! in) || (! in->data) )
+		return;
+
+	// run tracker
+	tracker->process(in);
+	TLImageProc::Rectangle *trackingResult = tracker->getCurBb();	
+
+	// converts result
+	cv::Rect detection;
+	detection.x = trackingResult->miFirstColumn;
+	detection.y = trackingResult->miFirstLine;
+	detection.width = trackingResult->miWidth;
+	detection.height = trackingResult->miHeight;
+	
+	// set output
+	out1->push_back(detection);
+}
+		]]>
+	</functions>
+	
+	<initializations>
+		<![CDATA[
+// initialize PixeltrackSD
+PixelTracker pxTracker_block_BLOCKID__( _BBOX_X_, _BBOX_Y_, _BBOX_W_, _BBOX_H_, _DETECTOR_UPDATE_FACTOR_, _SEGMENTATION_UPDATE_FACTOR_, _SEARCH_SIZE_);
+		]]>
+	</initializations>
+
+	<processings>
+		<![CDATA[
+pixelTrackerSD( &pxTracker_block_BLOCKID__, _INPUT1_, _OUTPUT1_);
+		]]>
+	</processings>
+
+	<cleanings>
+		<![CDATA[
+		]]>
+	</cleanings>
+
+</properties>
+
+
+

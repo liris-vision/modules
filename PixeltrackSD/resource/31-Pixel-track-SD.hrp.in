@@ -1,0 +1,94 @@
+<!--
+#
+# STARLING PROJECT 
+#
+# LIRIS - Laboratoire d'InfoRmatique en Image et Systèmes d'information 
+#
+# Copyright: 2012 - 2015 Eric Lombardi (eric.lombardi@liris.cnrs.fr), LIRIS (liris.cnrs.fr), CNRS (www.cnrs.fr)
+#
+#
+#    This program is free software: you can redistribute it and/or modify it
+#    under the terms of the GNU General Public License version 3, as published
+#    by the Free Software Foundation.
+#
+#    This program is distributed in the hope that it will be useful, but
+#    WITHOUT ANY WARRANTY; without even the implied warranties of
+#    MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR
+#    PURPOSE.  See the GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License along
+#    with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#    For further information, check the COPYING file distributed with this software.
+#
+-->    
+
+<harpia>
+<GcState>
+	<block type="500" id="1">
+		<position x="31.0" y="36.0"/>
+	</block>
+	<block type="2" id="2">
+		<position x="557.0" y="33.0"/>
+	</block>
+	<block type="1015" id="3">
+		<position x="189.0" y="112.0"/>
+	</block>
+	<block type="5011" id="4">
+		<position x="342.0" y="33.0"/>
+	</block>
+</GcState>
+<properties>
+  <block id="1" type="500">
+		<property desc="file name" name="_PARAM1_" type="filename" value="@_MODULE_DIR_@/test/mountain-bike.avi" />
+	</block>
+  <block id="2" type="2">
+		<property desc="window name" name="_PARAM1_" value="block_BLOCKID_" />
+	</block>
+  <block id="3" type="1015">
+		<property desc="bounding box x position" name="_BBOX_X_" value="355" />
+		<property desc="bounding box y position" name="_BBOX_Y_" value="191" />
+		<property desc="bounding box width" name="_BBOX_W_" value="18" />
+		<property desc="bounding box height" name="_BBOX_H_" value="35" />
+		<property desc="detector update factor" name="_DETECTOR_UPDATE_FACTOR_" value="0.1" />
+		<property desc="segmentation update factor" name="_SEGMENTATION_UPDATE_FACTOR_" value="0.1" />
+		<property desc="search size" name="_SEARCH_SIZE_" value="2.0" />
+	</block>
+  <block id="4" type="5011">
+	</block>
+  </properties>
+<network>
+<block type="500" id="1">
+<inputs>
+</inputs>
+<outputs>
+<output id="1" inBlock="3" input="1"/>
+<output id="1" inBlock="4" input="1"/>
+</outputs>
+</block>
+<block type="2" id="2">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+</outputs>
+</block>
+<block type="1015" id="3">
+<inputs>
+<input id="1"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="4" input="2"/>
+</outputs>
+</block>
+<block type="5011" id="4">
+<inputs>
+<input id="1"/>
+<input id="2"/>
+</inputs>
+<outputs>
+<output id="1" inBlock="2" input="1"/>
+</outputs>
+</block>
+</network>
+</harpia>

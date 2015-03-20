@@ -1,0 +1,45 @@
+LIRIS-VISION modules  
+--------------------
+
+All modules can be built at one time, by using the global CMakeLists.txt file, or one by one (see the README in each module directory).
+
+Compilation on Ubuntu 12.04 64 bits
+-----------------------------------
+
+	# install main dependencies (see each module for specific dependencies)
+	$ sudo aptitude install cmake
+	$ sudo aptitude install libopencv-dev libcv-dev libhighgui-dev libcvaux-dev
+	
+	# prepare build directory
+	$ cd ModulesAndBricks
+	$ mkdir build && cd build
+
+	# build in release mode
+	$ cmake -DSTARLING_DIR=path_to_starling_dir ..
+	$ make
+	$ make install  # copy files into Starling
+
+	# build in release mode with a specific version of OpenCV
+	$ cmake -DSTARLING_DIR=path_to_starling_dir -DOpenCV_DIR=/path_to_directory_containing_OpenCVConfig.cmake ..
+	$ make
+	$ make install  # copy files into Starling
+
+	# build in debug mode
+	$ cmake -DSTARLING_DIR=path_to_starling_dir -DCMAKE_BUILD_TYPE=Debug ..
+	$ make
+	$ make install  # copy files into Starling
+
+
+Compilation on Windows 7 64 bits
+--------------------------------
+
+	- launch CMake GUI
+	- Where is the source code = ".../ModulesAndBricks"
+	- Where to build the binaries = ".../ModulesAndBricks/build"
+	- click "Configure"
+	- set variable "OpenCV_DIR" to ".../opencv_._._" (the directory must contain 'OpenCVConfig.cmake' file)
+	- set variable "LIBUSB_1_INCLUDE_DIR" to ".../libusb-win32-bin-1._._._/include"
+	- set variable "LIBUSB_1_LIBRARY" to ".../libusb-win32-bin-1._._._/lib/msvc/libusb.lib"
+	- set variable "STARLING_DIR" to Starling directory
+	- click "Generate"
+	- open "ModulesAndBricks/build/ModulesAndBricks.sln" solution with visual c++, select 'release' mode, then generate the 'INSTALL' project
