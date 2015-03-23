@@ -154,18 +154,22 @@ endfunction()
 # install a file in Starling directory
 # if the file name ends with ".in", @_MODULE_DIR_@ is replaced by its value
 function(installStarlingModule filename destination)
-	set(filepath "${CMAKE_CURRENT_SOURCE_DIR}/resource")
-	# if the file 'filename.in' exists, it is used as a pattern
-	if(EXISTS "${filepath}/${filename}.in")
-		# replace '@_MODULE_DIR_@' inside the file
-		set(_MODULE_DIR_ "${CMAKE_CURRENT_SOURCE_DIR}")
-		configure_file("${filepath}/${filename}.in" "${filename}" @ONLY)
-	else()
-		# copy the file without change
-		configure_file("${filepath}/${filename}" "${filename}" COPYONLY)
-	endif()
+	# add an 'install' target only if STARLING_DIR is defined
+	if(STARLING_DIR)
+		set(filepath "${CMAKE_CURRENT_SOURCE_DIR}/resource")
+		# if the file 'filename.in' exists, use it as a pattern
+		# else, copy the file without change
+		if(EXISTS "${filepath}/${filename}.in")
+			# replace '@_MODULE_DIR_@' inside the file
+			set(_MODULE_DIR_ "${CMAKE_CURRENT_SOURCE_DIR}")
+			configure_file("${filepath}/${filename}.in" "${filename}" @ONLY)
+		else()
+			# copy the file without change
+			configure_file("${filepath}/${filename}" "${filename}" COPYONLY)
+		endif()
 
-	install(FILES "${CMAKE_CURRENT_BINARY_DIR}/${filename}" DESTINATION "${STARLING_DIR}/${destination}")
+		install(FILES "${CMAKE_CURRENT_BINARY_DIR}/${filename}" DESTINATION "${STARLING_DIR}/${destination}")
+	endif()
 endfunction()
 
 #-------------------- Common settings part 2/2 -----------------------
