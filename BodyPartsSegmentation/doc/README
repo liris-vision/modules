@@ -1,7 +1,15 @@
 Body parts segmentation module
----------------------------------------
+------------------------------
 
 Segmentation of depth images into 10 different body parts using random forests and depth features (and alternatively also edge features from additional grayscale images).
+
+Related publication: "Mingyuan Jiu, Christian Wolf, Atilla Baskurt. Integrating spatial layout of object parts into classification without pairwise terms: application to fast body parts estimation from depth images. In international conference on computer vision theory and applications, 2013".
+
+
+License
+-------
+
+GNU General Public License 3.0 (GPLv3).
 
 
 Dependencies
