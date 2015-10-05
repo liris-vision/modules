@@ -50,6 +50,10 @@ Inputs/outputs:
 
 	<functions>
 		<![CDATA[
+void bodyPartSegmentation( BodyPartSegmentation *segm, const cv::Mat *in, bool legend, cv::Mat *out1)
+{
+	segm->run( *in, legend, *out1);
+}
 		]]>
 	</functions>
 	
@@ -62,7 +66,7 @@ BodyPartSegmentation bodyPartSegm_block_BLOCKID__( "_FORESTFILENAME_", "_GROUNDF
 
 	<processings>
 		<![CDATA[
-bodyPartSegm_block_BLOCKID__.run( *(_INPUT1_), _LEGEND_, *(_OUTPUT1_));
+bodyPartSegmentation( &bodyPartSegm_block_BLOCKID__, _INPUT1_, _LEGEND_, _OUTPUT1_);
 		]]>
 	</processings>
 
