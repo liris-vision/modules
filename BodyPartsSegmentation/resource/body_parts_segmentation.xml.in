@@ -26,7 +26,7 @@ Inputs/outputs:
 	<!-- block description -->	
 
 	<label>Body parts segmentation</label>
-	<input id='1' type='cv::Mat'/>
+	<input id='1' type='cv::Mat' desc='depth image'/>
 	<output id='1' type='cv::Mat'/>
 	<isstream>true</isstream>
 	<icon>images/liris.png</icon>
