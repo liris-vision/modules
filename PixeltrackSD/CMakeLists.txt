@@ -64,6 +64,7 @@ installStarlingModule(pixel_track_sd.xml app_data/blocks.extra)
 installStarlingModule(31-Pixel-track-SD.hrp app_data/examples.extra)
 installStarlingModule(82_pixel_track_sd.hrp test.extra)
 installStarlingModule(82_output.mpeg.ref.u1404-64 test.extra)
+installStarlingModule(82_output.mpeg.ref.u1604-64 test.extra)
 installStarlingModule(82_output.mpeg.ref.w7 test.extra)
 addUninstallTarget()
 
