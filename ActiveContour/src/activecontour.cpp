@@ -26,6 +26,7 @@
 #include "activecontour.h"
 #include "cvmat2array.h"
 #include <iostream>
+#include <opencv2/opencv.hpp>
 
 /**********************************************************************
 *                      CActiveContourBase                             *

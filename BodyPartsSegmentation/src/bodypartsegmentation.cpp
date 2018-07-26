@@ -227,7 +227,7 @@ void BodyPartSegmentation::run(const cv::Mat& depthImg, bool bLegend, cv::Mat& o
 		cvResetImageROI(tmpOutputImg);
 	}
 
-	cv::Mat(tmpOutputImg).copyTo(outputImg);
+	outputImg = cv::cvarrToMat(tmpOutputImg, true);
 
 	cvReleaseMat( &dst ); 
 	cvReleaseMat( &pro_mat ); 
