@@ -953,6 +953,45 @@
 </event>
 
 
+<event type="face" id="0">
+<timestamp>2920</timestamp>
+<value>
+<tl><x>179</x><y>113</y></tl>
+<tr><x>244</x><y>113</y></tr>
+<bl><x>179</x><y>150</y></bl>
+<br><x>244</x><y>150</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>2960</timestamp>
+<value>
+<tl><x>178</x><y>113</y></tl>
+<tr><x>243</x><y>113</y></tr>
+<bl><x>178</x><y>150</y></bl>
+<br><x>243</x><y>150</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>3000</timestamp>
+<value>
+<tl><x>178</x><y>113</y></tl>
+<tr><x>243</x><y>113</y></tr>
+<bl><x>178</x><y>150</y></bl>
+<br><x>243</x><y>150</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
 
 
 

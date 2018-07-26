@@ -280,10 +280,10 @@
 <event type="face" id="0">
 <timestamp>840</timestamp>
 <value>
-<tl><x>175</x><y>73</y></tl>
-<tr><x>188</x><y>73</y></tr>
-<bl><x>175</x><y>124</y></bl>
-<br><x>188</x><y>124</y></br>
+<tl><x>175</x><y>72</y></tl>
+<tr><x>188</x><y>72</y></tr>
+<bl><x>175</x><y>123</y></bl>
+<br><x>188</x><y>123</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -345,10 +345,10 @@
 <event type="face" id="0">
 <timestamp>1040</timestamp>
 <value>
-<tl><x>173</x><y>76</y></tl>
-<tr><x>186</x><y>76</y></tr>
-<bl><x>173</x><y>127</y></bl>
-<br><x>186</x><y>127</y></br>
+<tl><x>174</x><y>76</y></tl>
+<tr><x>187</x><y>76</y></tr>
+<bl><x>174</x><y>127</y></bl>
+<br><x>187</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -358,10 +358,10 @@
 <event type="face" id="0">
 <timestamp>1080</timestamp>
 <value>
-<tl><x>172</x><y>77</y></tl>
-<tr><x>185</x><y>77</y></tr>
-<bl><x>172</x><y>128</y></bl>
-<br><x>185</x><y>128</y></br>
+<tl><x>174</x><y>78</y></tl>
+<tr><x>187</x><y>78</y></tr>
+<bl><x>174</x><y>129</y></bl>
+<br><x>187</x><y>129</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -371,10 +371,10 @@
 <event type="face" id="0">
 <timestamp>1120</timestamp>
 <value>
-<tl><x>172</x><y>78</y></tl>
-<tr><x>185</x><y>78</y></tr>
-<bl><x>172</x><y>129</y></bl>
-<br><x>185</x><y>129</y></br>
+<tl><x>173</x><y>78</y></tl>
+<tr><x>186</x><y>78</y></tr>
+<bl><x>173</x><y>129</y></bl>
+<br><x>186</x><y>129</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -410,10 +410,10 @@
 <event type="face" id="0">
 <timestamp>1240</timestamp>
 <value>
-<tl><x>171</x><y>80</y></tl>
-<tr><x>184</x><y>80</y></tr>
-<bl><x>171</x><y>131</y></bl>
-<br><x>184</x><y>131</y></br>
+<tl><x>171</x><y>79</y></tl>
+<tr><x>184</x><y>79</y></tr>
+<bl><x>171</x><y>130</y></bl>
+<br><x>184</x><y>130</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -423,10 +423,10 @@
 <event type="face" id="0">
 <timestamp>1280</timestamp>
 <value>
-<tl><x>171</x><y>81</y></tl>
-<tr><x>184</x><y>81</y></tr>
-<bl><x>171</x><y>132</y></bl>
-<br><x>184</x><y>132</y></br>
+<tl><x>171</x><y>82</y></tl>
+<tr><x>184</x><y>82</y></tr>
+<bl><x>171</x><y>133</y></bl>
+<br><x>184</x><y>133</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -436,10 +436,10 @@
 <event type="face" id="0">
 <timestamp>1320</timestamp>
 <value>
-<tl><x>169</x><y>81</y></tl>
-<tr><x>182</x><y>81</y></tr>
-<bl><x>169</x><y>132</y></bl>
-<br><x>182</x><y>132</y></br>
+<tl><x>171</x><y>85</y></tl>
+<tr><x>184</x><y>85</y></tr>
+<bl><x>171</x><y>136</y></bl>
+<br><x>184</x><y>136</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -449,10 +449,10 @@
 <event type="face" id="0">
 <timestamp>1360</timestamp>
 <value>
-<tl><x>169</x><y>82</y></tl>
-<tr><x>182</x><y>82</y></tr>
-<bl><x>169</x><y>133</y></bl>
-<br><x>182</x><y>133</y></br>
+<tl><x>170</x><y>86</y></tl>
+<tr><x>183</x><y>86</y></tr>
+<bl><x>170</x><y>137</y></bl>
+<br><x>183</x><y>137</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -462,10 +462,10 @@
 <event type="face" id="0">
 <timestamp>1400</timestamp>
 <value>
-<tl><x>169</x><y>84</y></tl>
-<tr><x>182</x><y>84</y></tr>
-<bl><x>169</x><y>135</y></bl>
-<br><x>182</x><y>135</y></br>
+<tl><x>170</x><y>87</y></tl>
+<tr><x>183</x><y>87</y></tr>
+<bl><x>170</x><y>138</y></bl>
+<br><x>183</x><y>138</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -475,10 +475,10 @@
 <event type="face" id="0">
 <timestamp>1440</timestamp>
 <value>
-<tl><x>170</x><y>88</y></tl>
-<tr><x>183</x><y>88</y></tr>
-<bl><x>170</x><y>139</y></bl>
-<br><x>183</x><y>139</y></br>
+<tl><x>170</x><y>91</y></tl>
+<tr><x>183</x><y>91</y></tr>
+<bl><x>170</x><y>142</y></bl>
+<br><x>183</x><y>142</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -488,10 +488,10 @@
 <event type="face" id="0">
 <timestamp>1480</timestamp>
 <value>
-<tl><x>170</x><y>89</y></tl>
-<tr><x>183</x><y>89</y></tr>
-<bl><x>170</x><y>140</y></bl>
-<br><x>183</x><y>140</y></br>
+<tl><x>170</x><y>92</y></tl>
+<tr><x>183</x><y>92</y></tr>
+<bl><x>170</x><y>143</y></bl>
+<br><x>183</x><y>143</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -500,32 +500,6 @@
 
 <event type="face" id="0">
 <timestamp>1520</timestamp>
-<value>
-<tl><x>169</x><y>89</y></tl>
-<tr><x>182</x><y>89</y></tr>
-<bl><x>169</x><y>140</y></bl>
-<br><x>182</x><y>140</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>1560</timestamp>
-<value>
-<tl><x>169</x><y>91</y></tl>
-<tr><x>182</x><y>91</y></tr>
-<bl><x>169</x><y>142</y></bl>
-<br><x>182</x><y>142</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>1600</timestamp>
 <value>
 <tl><x>169</x><y>92</y></tl>
 <tr><x>182</x><y>92</y></tr>
@@ -538,12 +512,12 @@
 
 
 <event type="face" id="0">
-<timestamp>1640</timestamp>
+<timestamp>1560</timestamp>
 <value>
-<tl><x>169</x><y>93</y></tl>
-<tr><x>182</x><y>93</y></tr>
-<bl><x>169</x><y>144</y></bl>
-<br><x>182</x><y>144</y></br>
+<tl><x>169</x><y>94</y></tl>
+<tr><x>182</x><y>94</y></tr>
+<bl><x>169</x><y>145</y></bl>
+<br><x>182</x><y>145</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -551,7 +525,7 @@
 
 
 <event type="face" id="0">
-<timestamp>1680</timestamp>
+<timestamp>1600</timestamp>
 <value>
 <tl><x>169</x><y>95</y></tl>
 <tr><x>182</x><y>95</y></tr>
@@ -564,7 +538,20 @@
 
 
 <event type="face" id="0">
-<timestamp>1720</timestamp>
+<timestamp>1640</timestamp>
+<value>
+<tl><x>169</x><y>95</y></tl>
+<tr><x>182</x><y>95</y></tr>
+<bl><x>169</x><y>146</y></bl>
+<br><x>182</x><y>146</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>1680</timestamp>
 <value>
 <tl><x>169</x><y>97</y></tl>
 <tr><x>182</x><y>97</y></tr>
@@ -577,7 +564,7 @@
 
 
 <event type="face" id="0">
-<timestamp>1760</timestamp>
+<timestamp>1720</timestamp>
 <value>
 <tl><x>169</x><y>98</y></tl>
 <tr><x>182</x><y>98</y></tr>
@@ -590,12 +577,25 @@
 
 
 <event type="face" id="0">
+<timestamp>1760</timestamp>
+<value>
+<tl><x>169</x><y>99</y></tl>
+<tr><x>182</x><y>99</y></tr>
+<bl><x>169</x><y>150</y></bl>
+<br><x>182</x><y>150</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
 <timestamp>1800</timestamp>
 <value>
-<tl><x>170</x><y>100</y></tl>
-<tr><x>183</x><y>100</y></tr>
-<bl><x>170</x><y>151</y></bl>
-<br><x>183</x><y>151</y></br>
+<tl><x>169</x><y>101</y></tl>
+<tr><x>182</x><y>101</y></tr>
+<bl><x>169</x><y>152</y></bl>
+<br><x>182</x><y>152</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -605,10 +605,10 @@
 <event type="face" id="0">
 <timestamp>1840</timestamp>
 <value>
-<tl><x>170</x><y>102</y></tl>
-<tr><x>183</x><y>102</y></tr>
-<bl><x>170</x><y>153</y></bl>
-<br><x>183</x><y>153</y></br>
+<tl><x>168</x><y>101</y></tl>
+<tr><x>181</x><y>101</y></tr>
+<bl><x>168</x><y>152</y></bl>
+<br><x>181</x><y>152</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -618,10 +618,10 @@
 <event type="face" id="0">
 <timestamp>1880</timestamp>
 <value>
-<tl><x>171</x><y>105</y></tl>
-<tr><x>184</x><y>105</y></tr>
-<bl><x>171</x><y>156</y></bl>
-<br><x>184</x><y>156</y></br>
+<tl><x>169</x><y>103</y></tl>
+<tr><x>182</x><y>103</y></tr>
+<bl><x>169</x><y>154</y></bl>
+<br><x>182</x><y>154</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -631,10 +631,10 @@
 <event type="face" id="0">
 <timestamp>1920</timestamp>
 <value>
-<tl><x>169</x><y>106</y></tl>
-<tr><x>182</x><y>106</y></tr>
-<bl><x>169</x><y>157</y></bl>
-<br><x>182</x><y>157</y></br>
+<tl><x>169</x><y>105</y></tl>
+<tr><x>182</x><y>105</y></tr>
+<bl><x>169</x><y>156</y></bl>
+<br><x>182</x><y>156</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -644,10 +644,10 @@
 <event type="face" id="0">
 <timestamp>1960</timestamp>
 <value>
-<tl><x>168</x><y>107</y></tl>
-<tr><x>181</x><y>107</y></tr>
-<bl><x>168</x><y>158</y></bl>
-<br><x>181</x><y>158</y></br>
+<tl><x>168</x><y>106</y></tl>
+<tr><x>181</x><y>106</y></tr>
+<bl><x>168</x><y>157</y></bl>
+<br><x>181</x><y>157</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -656,6 +656,19 @@
 
 <event type="face" id="0">
 <timestamp>2000</timestamp>
+<value>
+<tl><x>166</x><y>107</y></tl>
+<tr><x>179</x><y>107</y></tr>
+<bl><x>166</x><y>158</y></bl>
+<br><x>179</x><y>158</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>2040</timestamp>
 <value>
 <tl><x>166</x><y>109</y></tl>
 <tr><x>179</x><y>109</y></tr>
@@ -668,25 +681,12 @@
 
 
 <event type="face" id="0">
-<timestamp>2040</timestamp>
-<value>
-<tl><x>166</x><y>110</y></tl>
-<tr><x>179</x><y>110</y></tr>
-<bl><x>166</x><y>161</y></bl>
-<br><x>179</x><y>161</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
 <timestamp>2080</timestamp>
 <value>
-<tl><x>164</x><y>112</y></tl>
-<tr><x>177</x><y>112</y></tr>
-<bl><x>164</x><y>163</y></bl>
-<br><x>177</x><y>163</y></br>
+<tl><x>165</x><y>111</y></tl>
+<tr><x>178</x><y>111</y></tr>
+<bl><x>165</x><y>162</y></bl>
+<br><x>178</x><y>162</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -696,10 +696,10 @@
 <event type="face" id="0">
 <timestamp>2120</timestamp>
 <value>
-<tl><x>165</x><y>115</y></tl>
-<tr><x>178</x><y>115</y></tr>
-<bl><x>165</x><y>166</y></bl>
-<br><x>178</x><y>166</y></br>
+<tl><x>165</x><y>111</y></tl>
+<tr><x>178</x><y>111</y></tr>
+<bl><x>165</x><y>162</y></bl>
+<br><x>178</x><y>162</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -709,10 +709,10 @@
 <event type="face" id="0">
 <timestamp>2160</timestamp>
 <value>
-<tl><x>166</x><y>115</y></tl>
-<tr><x>179</x><y>115</y></tr>
-<bl><x>166</x><y>166</y></bl>
-<br><x>179</x><y>166</y></br>
+<tl><x>165</x><y>113</y></tl>
+<tr><x>178</x><y>113</y></tr>
+<bl><x>165</x><y>164</y></bl>
+<br><x>178</x><y>164</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -722,10 +722,10 @@
 <event type="face" id="0">
 <timestamp>2200</timestamp>
 <value>
-<tl><x>166</x><y>114</y></tl>
-<tr><x>179</x><y>114</y></tr>
-<bl><x>166</x><y>165</y></bl>
-<br><x>179</x><y>165</y></br>
+<tl><x>165</x><y>114</y></tl>
+<tr><x>178</x><y>114</y></tr>
+<bl><x>165</x><y>165</y></bl>
+<br><x>178</x><y>165</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -800,10 +800,10 @@
 <event type="face" id="0">
 <timestamp>2440</timestamp>
 <value>
-<tl><x>166</x><y>116</y></tl>
-<tr><x>179</x><y>116</y></tr>
-<bl><x>166</x><y>167</y></bl>
-<br><x>179</x><y>167</y></br>
+<tl><x>165</x><y>115</y></tl>
+<tr><x>178</x><y>115</y></tr>
+<bl><x>165</x><y>166</y></bl>
+<br><x>178</x><y>166</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -813,10 +813,10 @@
 <event type="face" id="0">
 <timestamp>2480</timestamp>
 <value>
-<tl><x>166</x><y>117</y></tl>
-<tr><x>179</x><y>117</y></tr>
-<bl><x>166</x><y>168</y></bl>
-<br><x>179</x><y>168</y></br>
+<tl><x>165</x><y>116</y></tl>
+<tr><x>178</x><y>116</y></tr>
+<bl><x>165</x><y>167</y></bl>
+<br><x>178</x><y>167</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -839,10 +839,10 @@
 <event type="face" id="0">
 <timestamp>2560</timestamp>
 <value>
-<tl><x>167</x><y>116</y></tl>
-<tr><x>180</x><y>116</y></tr>
-<bl><x>167</x><y>167</y></bl>
-<br><x>180</x><y>167</y></br>
+<tl><x>166</x><y>116</y></tl>
+<tr><x>179</x><y>116</y></tr>
+<bl><x>166</x><y>167</y></bl>
+<br><x>179</x><y>167</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -891,10 +891,10 @@
 <event type="face" id="0">
 <timestamp>2720</timestamp>
 <value>
-<tl><x>166</x><y>113</y></tl>
-<tr><x>179</x><y>113</y></tr>
-<bl><x>166</x><y>164</y></bl>
-<br><x>179</x><y>164</y></br>
+<tl><x>169</x><y>112</y></tl>
+<tr><x>182</x><y>112</y></tr>
+<bl><x>169</x><y>163</y></bl>
+<br><x>182</x><y>163</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -904,10 +904,10 @@
 <event type="face" id="0">
 <timestamp>2760</timestamp>
 <value>
-<tl><x>166</x><y>112</y></tl>
-<tr><x>179</x><y>112</y></tr>
-<bl><x>166</x><y>163</y></bl>
-<br><x>179</x><y>163</y></br>
+<tl><x>170</x><y>110</y></tl>
+<tr><x>183</x><y>110</y></tr>
+<bl><x>170</x><y>161</y></bl>
+<br><x>183</x><y>161</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -917,10 +917,10 @@
 <event type="face" id="0">
 <timestamp>2800</timestamp>
 <value>
-<tl><x>167</x><y>111</y></tl>
-<tr><x>180</x><y>111</y></tr>
-<bl><x>167</x><y>162</y></bl>
-<br><x>180</x><y>162</y></br>
+<tl><x>170</x><y>107</y></tl>
+<tr><x>183</x><y>107</y></tr>
+<bl><x>170</x><y>158</y></bl>
+<br><x>183</x><y>158</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -930,10 +930,10 @@
 <event type="face" id="0">
 <timestamp>2840</timestamp>
 <value>
-<tl><x>168</x><y>109</y></tl>
-<tr><x>181</x><y>109</y></tr>
-<bl><x>168</x><y>160</y></bl>
-<br><x>181</x><y>160</y></br>
+<tl><x>170</x><y>106</y></tl>
+<tr><x>183</x><y>106</y></tr>
+<bl><x>170</x><y>157</y></bl>
+<br><x>183</x><y>157</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -943,10 +943,10 @@
 <event type="face" id="0">
 <timestamp>2880</timestamp>
 <value>
-<tl><x>168</x><y>106</y></tl>
-<tr><x>181</x><y>106</y></tr>
-<bl><x>168</x><y>157</y></bl>
-<br><x>181</x><y>157</y></br>
+<tl><x>170</x><y>104</y></tl>
+<tr><x>183</x><y>104</y></tr>
+<bl><x>170</x><y>155</y></bl>
+<br><x>183</x><y>155</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -956,10 +956,10 @@
 <event type="face" id="0">
 <timestamp>2920</timestamp>
 <value>
-<tl><x>168</x><y>108</y></tl>
-<tr><x>181</x><y>108</y></tr>
-<bl><x>168</x><y>159</y></bl>
-<br><x>181</x><y>159</y></br>
+<tl><x>170</x><y>104</y></tl>
+<tr><x>183</x><y>104</y></tr>
+<bl><x>170</x><y>155</y></bl>
+<br><x>183</x><y>155</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -969,10 +969,10 @@
 <event type="face" id="0">
 <timestamp>2960</timestamp>
 <value>
-<tl><x>167</x><y>103</y></tl>
-<tr><x>180</x><y>103</y></tr>
-<bl><x>167</x><y>154</y></bl>
-<br><x>180</x><y>154</y></br>
+<tl><x>168</x><y>107</y></tl>
+<tr><x>181</x><y>107</y></tr>
+<bl><x>168</x><y>158</y></bl>
+<br><x>181</x><y>158</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -982,10 +982,10 @@
 <event type="face" id="0">
 <timestamp>3000</timestamp>
 <value>
-<tl><x>167</x><y>104</y></tl>
-<tr><x>180</x><y>104</y></tr>
-<bl><x>167</x><y>155</y></bl>
-<br><x>180</x><y>155</y></br>
+<tl><x>167</x><y>109</y></tl>
+<tr><x>180</x><y>109</y></tr>
+<bl><x>167</x><y>160</y></bl>
+<br><x>180</x><y>160</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -995,10 +995,10 @@
 <event type="face" id="0">
 <timestamp>3040</timestamp>
 <value>
-<tl><x>166</x><y>101</y></tl>
-<tr><x>179</x><y>101</y></tr>
-<bl><x>166</x><y>152</y></bl>
-<br><x>179</x><y>152</y></br>
+<tl><x>166</x><y>106</y></tl>
+<tr><x>179</x><y>106</y></tr>
+<bl><x>166</x><y>157</y></bl>
+<br><x>179</x><y>157</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1008,10 +1008,10 @@
 <event type="face" id="0">
 <timestamp>3080</timestamp>
 <value>
-<tl><x>166</x><y>96</y></tl>
-<tr><x>179</x><y>96</y></tr>
-<bl><x>166</x><y>147</y></bl>
-<br><x>179</x><y>147</y></br>
+<tl><x>166</x><y>99</y></tl>
+<tr><x>179</x><y>99</y></tr>
+<bl><x>166</x><y>150</y></bl>
+<br><x>179</x><y>150</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1021,10 +1021,10 @@
 <event type="face" id="0">
 <timestamp>3120</timestamp>
 <value>
-<tl><x>165</x><y>95</y></tl>
-<tr><x>178</x><y>95</y></tr>
-<bl><x>165</x><y>146</y></bl>
-<br><x>178</x><y>146</y></br>
+<tl><x>165</x><y>98</y></tl>
+<tr><x>178</x><y>98</y></tr>
+<bl><x>165</x><y>149</y></bl>
+<br><x>178</x><y>149</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1034,10 +1034,10 @@
 <event type="face" id="0">
 <timestamp>3160</timestamp>
 <value>
-<tl><x>165</x><y>91</y></tl>
-<tr><x>178</x><y>91</y></tr>
-<bl><x>165</x><y>142</y></bl>
-<br><x>178</x><y>142</y></br>
+<tl><x>165</x><y>93</y></tl>
+<tr><x>178</x><y>93</y></tr>
+<bl><x>165</x><y>144</y></bl>
+<br><x>178</x><y>144</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1047,10 +1047,10 @@
 <event type="face" id="0">
 <timestamp>3200</timestamp>
 <value>
-<tl><x>165</x><y>87</y></tl>
-<tr><x>178</x><y>87</y></tr>
-<bl><x>165</x><y>138</y></bl>
-<br><x>178</x><y>138</y></br>
+<tl><x>165</x><y>92</y></tl>
+<tr><x>178</x><y>92</y></tr>
+<bl><x>165</x><y>143</y></bl>
+<br><x>178</x><y>143</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1060,10 +1060,10 @@
 <event type="face" id="0">
 <timestamp>3240</timestamp>
 <value>
-<tl><x>164</x><y>89</y></tl>
-<tr><x>177</x><y>89</y></tr>
-<bl><x>164</x><y>140</y></bl>
-<br><x>177</x><y>140</y></br>
+<tl><x>164</x><y>87</y></tl>
+<tr><x>177</x><y>87</y></tr>
+<bl><x>164</x><y>138</y></bl>
+<br><x>177</x><y>138</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1073,10 +1073,10 @@
 <event type="face" id="0">
 <timestamp>3280</timestamp>
 <value>
-<tl><x>164</x><y>86</y></tl>
-<tr><x>177</x><y>86</y></tr>
-<bl><x>164</x><y>137</y></bl>
-<br><x>177</x><y>137</y></br>
+<tl><x>164</x><y>84</y></tl>
+<tr><x>177</x><y>84</y></tr>
+<bl><x>164</x><y>135</y></bl>
+<br><x>177</x><y>135</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1138,10 +1138,10 @@
 <event type="face" id="0">
 <timestamp>3480</timestamp>
 <value>
-<tl><x>164</x><y>73</y></tl>
-<tr><x>177</x><y>73</y></tr>
-<bl><x>164</x><y>124</y></bl>
-<br><x>177</x><y>124</y></br>
+<tl><x>163</x><y>75</y></tl>
+<tr><x>176</x><y>75</y></tr>
+<bl><x>163</x><y>126</y></bl>
+<br><x>176</x><y>126</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1164,10 +1164,10 @@
 <event type="face" id="0">
 <timestamp>3560</timestamp>
 <value>
-<tl><x>166</x><y>71</y></tl>
-<tr><x>179</x><y>71</y></tr>
-<bl><x>166</x><y>122</y></bl>
-<br><x>179</x><y>122</y></br>
+<tl><x>165</x><y>71</y></tl>
+<tr><x>178</x><y>71</y></tr>
+<bl><x>165</x><y>122</y></bl>
+<br><x>178</x><y>122</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1177,10 +1177,10 @@
 <event type="face" id="0">
 <timestamp>3600</timestamp>
 <value>
-<tl><x>168</x><y>70</y></tl>
-<tr><x>181</x><y>70</y></tr>
-<bl><x>168</x><y>121</y></bl>
-<br><x>181</x><y>121</y></br>
+<tl><x>165</x><y>74</y></tl>
+<tr><x>178</x><y>74</y></tr>
+<bl><x>165</x><y>125</y></bl>
+<br><x>178</x><y>125</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1190,10 +1190,10 @@
 <event type="face" id="0">
 <timestamp>3640</timestamp>
 <value>
-<tl><x>169</x><y>68</y></tl>
-<tr><x>182</x><y>68</y></tr>
-<bl><x>169</x><y>119</y></bl>
-<br><x>182</x><y>119</y></br>
+<tl><x>168</x><y>68</y></tl>
+<tr><x>181</x><y>68</y></tr>
+<bl><x>168</x><y>119</y></bl>
+<br><x>181</x><y>119</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1203,10 +1203,10 @@
 <event type="face" id="0">
 <timestamp>3680</timestamp>
 <value>
-<tl><x>171</x><y>66</y></tl>
-<tr><x>184</x><y>66</y></tr>
-<bl><x>171</x><y>117</y></bl>
-<br><x>184</x><y>117</y></br>
+<tl><x>170</x><y>65</y></tl>
+<tr><x>183</x><y>65</y></tr>
+<bl><x>170</x><y>116</y></bl>
+<br><x>183</x><y>116</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1215,6 +1215,19 @@
 
 <event type="face" id="0">
 <timestamp>3720</timestamp>
+<value>
+<tl><x>171</x><y>63</y></tl>
+<tr><x>184</x><y>63</y></tr>
+<bl><x>171</x><y>114</y></bl>
+<br><x>184</x><y>114</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>3760</timestamp>
 <value>
 <tl><x>172</x><y>63</y></tl>
 <tr><x>185</x><y>63</y></tr>
@@ -1227,25 +1240,12 @@
 
 
 <event type="face" id="0">
-<timestamp>3760</timestamp>
-<value>
-<tl><x>174</x><y>64</y></tl>
-<tr><x>187</x><y>64</y></tr>
-<bl><x>174</x><y>115</y></bl>
-<br><x>187</x><y>115</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
 <timestamp>3800</timestamp>
 <value>
-<tl><x>176</x><y>64</y></tl>
-<tr><x>189</x><y>64</y></tr>
-<bl><x>176</x><y>115</y></bl>
-<br><x>189</x><y>115</y></br>
+<tl><x>172</x><y>61</y></tl>
+<tr><x>185</x><y>61</y></tr>
+<bl><x>172</x><y>112</y></bl>
+<br><x>185</x><y>112</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1255,10 +1255,10 @@
 <event type="face" id="0">
 <timestamp>3840</timestamp>
 <value>
-<tl><x>176</x><y>62</y></tl>
-<tr><x>189</x><y>62</y></tr>
-<bl><x>176</x><y>113</y></bl>
-<br><x>189</x><y>113</y></br>
+<tl><x>170</x><y>60</y></tl>
+<tr><x>183</x><y>60</y></tr>
+<bl><x>170</x><y>111</y></bl>
+<br><x>183</x><y>111</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1268,10 +1268,10 @@
 <event type="face" id="0">
 <timestamp>3880</timestamp>
 <value>
-<tl><x>175</x><y>60</y></tl>
-<tr><x>188</x><y>60</y></tr>
-<bl><x>175</x><y>111</y></bl>
-<br><x>188</x><y>111</y></br>
+<tl><x>170</x><y>58</y></tl>
+<tr><x>183</x><y>58</y></tr>
+<bl><x>170</x><y>109</y></bl>
+<br><x>183</x><y>109</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1281,10 +1281,10 @@
 <event type="face" id="0">
 <timestamp>3920</timestamp>
 <value>
-<tl><x>176</x><y>58</y></tl>
-<tr><x>189</x><y>58</y></tr>
-<bl><x>176</x><y>109</y></bl>
-<br><x>189</x><y>109</y></br>
+<tl><x>169</x><y>56</y></tl>
+<tr><x>182</x><y>56</y></tr>
+<bl><x>169</x><y>107</y></bl>
+<br><x>182</x><y>107</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1294,10 +1294,10 @@
 <event type="face" id="0">
 <timestamp>3960</timestamp>
 <value>
-<tl><x>174</x><y>56</y></tl>
-<tr><x>187</x><y>56</y></tr>
-<bl><x>174</x><y>107</y></bl>
-<br><x>187</x><y>107</y></br>
+<tl><x>170</x><y>54</y></tl>
+<tr><x>183</x><y>54</y></tr>
+<bl><x>170</x><y>105</y></bl>
+<br><x>183</x><y>105</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1307,10 +1307,10 @@
 <event type="face" id="0">
 <timestamp>4000</timestamp>
 <value>
-<tl><x>174</x><y>54</y></tl>
-<tr><x>187</x><y>54</y></tr>
-<bl><x>174</x><y>105</y></bl>
-<br><x>187</x><y>105</y></br>
+<tl><x>170</x><y>54</y></tl>
+<tr><x>183</x><y>54</y></tr>
+<bl><x>170</x><y>105</y></bl>
+<br><x>183</x><y>105</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1320,10 +1320,10 @@
 <event type="face" id="0">
 <timestamp>4040</timestamp>
 <value>
-<tl><x>175</x><y>53</y></tl>
-<tr><x>188</x><y>53</y></tr>
-<bl><x>175</x><y>104</y></bl>
-<br><x>188</x><y>104</y></br>
+<tl><x>172</x><y>53</y></tl>
+<tr><x>185</x><y>53</y></tr>
+<bl><x>172</x><y>104</y></bl>
+<br><x>185</x><y>104</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1333,10 +1333,10 @@
 <event type="face" id="0">
 <timestamp>4080</timestamp>
 <value>
-<tl><x>177</x><y>52</y></tl>
-<tr><x>190</x><y>52</y></tr>
-<bl><x>177</x><y>103</y></bl>
-<br><x>190</x><y>103</y></br>
+<tl><x>176</x><y>50</y></tl>
+<tr><x>189</x><y>50</y></tr>
+<bl><x>176</x><y>101</y></bl>
+<br><x>189</x><y>101</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1346,10 +1346,10 @@
 <event type="face" id="0">
 <timestamp>4120</timestamp>
 <value>
-<tl><x>180</x><y>51</y></tl>
-<tr><x>193</x><y>51</y></tr>
-<bl><x>180</x><y>102</y></bl>
-<br><x>193</x><y>102</y></br>
+<tl><x>177</x><y>51</y></tl>
+<tr><x>190</x><y>51</y></tr>
+<bl><x>177</x><y>102</y></bl>
+<br><x>190</x><y>102</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1359,10 +1359,10 @@
 <event type="face" id="0">
 <timestamp>4160</timestamp>
 <value>
-<tl><x>182</x><y>50</y></tl>
-<tr><x>195</x><y>50</y></tr>
-<bl><x>182</x><y>101</y></bl>
-<br><x>195</x><y>101</y></br>
+<tl><x>178</x><y>50</y></tl>
+<tr><x>191</x><y>50</y></tr>
+<bl><x>178</x><y>101</y></bl>
+<br><x>191</x><y>101</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1372,10 +1372,10 @@
 <event type="face" id="0">
 <timestamp>4200</timestamp>
 <value>
-<tl><x>185</x><y>53</y></tl>
-<tr><x>198</x><y>53</y></tr>
-<bl><x>185</x><y>104</y></bl>
-<br><x>198</x><y>104</y></br>
+<tl><x>178</x><y>53</y></tl>
+<tr><x>191</x><y>53</y></tr>
+<bl><x>178</x><y>104</y></bl>
+<br><x>191</x><y>104</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1385,10 +1385,10 @@
 <event type="face" id="0">
 <timestamp>4240</timestamp>
 <value>
-<tl><x>186</x><y>56</y></tl>
-<tr><x>199</x><y>56</y></tr>
-<bl><x>186</x><y>107</y></bl>
-<br><x>199</x><y>107</y></br>
+<tl><x>180</x><y>53</y></tl>
+<tr><x>193</x><y>53</y></tr>
+<bl><x>180</x><y>104</y></bl>
+<br><x>193</x><y>104</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1397,32 +1397,6 @@
 
 <event type="face" id="0">
 <timestamp>4280</timestamp>
-<value>
-<tl><x>185</x><y>58</y></tl>
-<tr><x>198</x><y>58</y></tr>
-<bl><x>185</x><y>109</y></bl>
-<br><x>198</x><y>109</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>4320</timestamp>
-<value>
-<tl><x>183</x><y>58</y></tl>
-<tr><x>196</x><y>58</y></tr>
-<bl><x>183</x><y>109</y></bl>
-<br><x>196</x><y>109</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>4360</timestamp>
 <value>
 <tl><x>181</x><y>57</y></tl>
 <tr><x>194</x><y>57</y></tr>
@@ -1435,12 +1409,38 @@
 
 
 <event type="face" id="0">
+<timestamp>4320</timestamp>
+<value>
+<tl><x>180</x><y>57</y></tl>
+<tr><x>193</x><y>57</y></tr>
+<bl><x>180</x><y>108</y></bl>
+<br><x>193</x><y>108</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>4360</timestamp>
+<value>
+<tl><x>178</x><y>57</y></tl>
+<tr><x>191</x><y>57</y></tr>
+<bl><x>178</x><y>108</y></bl>
+<br><x>191</x><y>108</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
 <timestamp>4400</timestamp>
 <value>
-<tl><x>181</x><y>56</y></tl>
-<tr><x>194</x><y>56</y></tr>
-<bl><x>181</x><y>107</y></bl>
-<br><x>194</x><y>107</y></br>
+<tl><x>177</x><y>57</y></tl>
+<tr><x>190</x><y>57</y></tr>
+<bl><x>177</x><y>108</y></bl>
+<br><x>190</x><y>108</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1450,10 +1450,10 @@
 <event type="face" id="0">
 <timestamp>4440</timestamp>
 <value>
-<tl><x>181</x><y>56</y></tl>
-<tr><x>194</x><y>56</y></tr>
-<bl><x>181</x><y>107</y></bl>
-<br><x>194</x><y>107</y></br>
+<tl><x>176</x><y>57</y></tl>
+<tr><x>189</x><y>57</y></tr>
+<bl><x>176</x><y>108</y></bl>
+<br><x>189</x><y>108</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1463,10 +1463,10 @@
 <event type="face" id="0">
 <timestamp>4480</timestamp>
 <value>
-<tl><x>181</x><y>54</y></tl>
-<tr><x>194</x><y>54</y></tr>
-<bl><x>181</x><y>105</y></bl>
-<br><x>194</x><y>105</y></br>
+<tl><x>176</x><y>55</y></tl>
+<tr><x>189</x><y>55</y></tr>
+<bl><x>176</x><y>106</y></bl>
+<br><x>189</x><y>106</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1476,10 +1476,10 @@
 <event type="face" id="0">
 <timestamp>4520</timestamp>
 <value>
-<tl><x>180</x><y>54</y></tl>
-<tr><x>193</x><y>54</y></tr>
-<bl><x>180</x><y>105</y></bl>
-<br><x>193</x><y>105</y></br>
+<tl><x>176</x><y>54</y></tl>
+<tr><x>189</x><y>54</y></tr>
+<bl><x>176</x><y>105</y></bl>
+<br><x>189</x><y>105</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1489,10 +1489,10 @@
 <event type="face" id="0">
 <timestamp>4560</timestamp>
 <value>
-<tl><x>181</x><y>53</y></tl>
-<tr><x>194</x><y>53</y></tr>
-<bl><x>181</x><y>104</y></bl>
-<br><x>194</x><y>104</y></br>
+<tl><x>176</x><y>53</y></tl>
+<tr><x>189</x><y>53</y></tr>
+<bl><x>176</x><y>104</y></bl>
+<br><x>189</x><y>104</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1502,10 +1502,10 @@
 <event type="face" id="0">
 <timestamp>4600</timestamp>
 <value>
-<tl><x>182</x><y>52</y></tl>
-<tr><x>195</x><y>52</y></tr>
-<bl><x>182</x><y>103</y></bl>
-<br><x>195</x><y>103</y></br>
+<tl><x>177</x><y>51</y></tl>
+<tr><x>190</x><y>51</y></tr>
+<bl><x>177</x><y>102</y></bl>
+<br><x>190</x><y>102</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1515,10 +1515,10 @@
 <event type="face" id="0">
 <timestamp>4640</timestamp>
 <value>
-<tl><x>182</x><y>53</y></tl>
-<tr><x>195</x><y>53</y></tr>
-<bl><x>182</x><y>104</y></bl>
-<br><x>195</x><y>104</y></br>
+<tl><x>176</x><y>51</y></tl>
+<tr><x>189</x><y>51</y></tr>
+<bl><x>176</x><y>102</y></bl>
+<br><x>189</x><y>102</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1528,10 +1528,10 @@
 <event type="face" id="0">
 <timestamp>4680</timestamp>
 <value>
-<tl><x>184</x><y>53</y></tl>
-<tr><x>197</x><y>53</y></tr>
-<bl><x>184</x><y>104</y></bl>
-<br><x>197</x><y>104</y></br>
+<tl><x>176</x><y>49</y></tl>
+<tr><x>189</x><y>49</y></tr>
+<bl><x>176</x><y>100</y></bl>
+<br><x>189</x><y>100</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1541,10 +1541,10 @@
 <event type="face" id="0">
 <timestamp>4720</timestamp>
 <value>
-<tl><x>186</x><y>55</y></tl>
-<tr><x>199</x><y>55</y></tr>
-<bl><x>186</x><y>106</y></bl>
-<br><x>199</x><y>106</y></br>
+<tl><x>176</x><y>49</y></tl>
+<tr><x>189</x><y>49</y></tr>
+<bl><x>176</x><y>100</y></bl>
+<br><x>189</x><y>100</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1554,10 +1554,10 @@
 <event type="face" id="0">
 <timestamp>4760</timestamp>
 <value>
-<tl><x>184</x><y>56</y></tl>
-<tr><x>197</x><y>56</y></tr>
-<bl><x>184</x><y>107</y></bl>
-<br><x>197</x><y>107</y></br>
+<tl><x>175</x><y>49</y></tl>
+<tr><x>188</x><y>49</y></tr>
+<bl><x>175</x><y>100</y></bl>
+<br><x>188</x><y>100</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1567,10 +1567,10 @@
 <event type="face" id="0">
 <timestamp>4800</timestamp>
 <value>
-<tl><x>183</x><y>56</y></tl>
-<tr><x>196</x><y>56</y></tr>
-<bl><x>183</x><y>107</y></bl>
-<br><x>196</x><y>107</y></br>
+<tl><x>174</x><y>49</y></tl>
+<tr><x>187</x><y>49</y></tr>
+<bl><x>174</x><y>100</y></bl>
+<br><x>187</x><y>100</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1579,188 +1579,6 @@
 
 <event type="face" id="0">
 <timestamp>4840</timestamp>
-<value>
-<tl><x>183</x><y>59</y></tl>
-<tr><x>196</x><y>59</y></tr>
-<bl><x>183</x><y>110</y></bl>
-<br><x>196</x><y>110</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>4880</timestamp>
-<value>
-<tl><x>183</x><y>60</y></tl>
-<tr><x>196</x><y>60</y></tr>
-<bl><x>183</x><y>111</y></bl>
-<br><x>196</x><y>111</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>4920</timestamp>
-<value>
-<tl><x>181</x><y>60</y></tl>
-<tr><x>194</x><y>60</y></tr>
-<bl><x>181</x><y>111</y></bl>
-<br><x>194</x><y>111</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>4960</timestamp>
-<value>
-<tl><x>179</x><y>59</y></tl>
-<tr><x>192</x><y>59</y></tr>
-<bl><x>179</x><y>110</y></bl>
-<br><x>192</x><y>110</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5000</timestamp>
-<value>
-<tl><x>179</x><y>58</y></tl>
-<tr><x>192</x><y>58</y></tr>
-<bl><x>179</x><y>109</y></bl>
-<br><x>192</x><y>109</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5040</timestamp>
-<value>
-<tl><x>179</x><y>57</y></tl>
-<tr><x>192</x><y>57</y></tr>
-<bl><x>179</x><y>108</y></bl>
-<br><x>192</x><y>108</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5080</timestamp>
-<value>
-<tl><x>179</x><y>56</y></tl>
-<tr><x>192</x><y>56</y></tr>
-<bl><x>179</x><y>107</y></bl>
-<br><x>192</x><y>107</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5120</timestamp>
-<value>
-<tl><x>179</x><y>56</y></tl>
-<tr><x>192</x><y>56</y></tr>
-<bl><x>179</x><y>107</y></bl>
-<br><x>192</x><y>107</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5160</timestamp>
-<value>
-<tl><x>178</x><y>55</y></tl>
-<tr><x>191</x><y>55</y></tr>
-<bl><x>178</x><y>106</y></bl>
-<br><x>191</x><y>106</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5200</timestamp>
-<value>
-<tl><x>177</x><y>55</y></tl>
-<tr><x>190</x><y>55</y></tr>
-<bl><x>177</x><y>106</y></bl>
-<br><x>190</x><y>106</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5240</timestamp>
-<value>
-<tl><x>176</x><y>56</y></tl>
-<tr><x>189</x><y>56</y></tr>
-<bl><x>176</x><y>107</y></bl>
-<br><x>189</x><y>107</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5280</timestamp>
-<value>
-<tl><x>178</x><y>54</y></tl>
-<tr><x>191</x><y>54</y></tr>
-<bl><x>178</x><y>105</y></bl>
-<br><x>191</x><y>105</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5320</timestamp>
-<value>
-<tl><x>177</x><y>53</y></tl>
-<tr><x>190</x><y>53</y></tr>
-<bl><x>177</x><y>104</y></bl>
-<br><x>190</x><y>104</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5360</timestamp>
-<value>
-<tl><x>175</x><y>53</y></tl>
-<tr><x>188</x><y>53</y></tr>
-<bl><x>175</x><y>104</y></bl>
-<br><x>188</x><y>104</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
-<timestamp>5400</timestamp>
 <value>
 <tl><x>174</x><y>51</y></tl>
 <tr><x>187</x><y>51</y></tr>
@@ -1773,12 +1591,194 @@
 
 
 <event type="face" id="0">
+<timestamp>4880</timestamp>
+<value>
+<tl><x>174</x><y>51</y></tl>
+<tr><x>187</x><y>51</y></tr>
+<bl><x>174</x><y>102</y></bl>
+<br><x>187</x><y>102</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>4920</timestamp>
+<value>
+<tl><x>174</x><y>51</y></tl>
+<tr><x>187</x><y>51</y></tr>
+<bl><x>174</x><y>102</y></bl>
+<br><x>187</x><y>102</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>4960</timestamp>
+<value>
+<tl><x>173</x><y>52</y></tl>
+<tr><x>186</x><y>52</y></tr>
+<bl><x>173</x><y>103</y></bl>
+<br><x>186</x><y>103</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5000</timestamp>
+<value>
+<tl><x>174</x><y>53</y></tl>
+<tr><x>187</x><y>53</y></tr>
+<bl><x>174</x><y>104</y></bl>
+<br><x>187</x><y>104</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5040</timestamp>
+<value>
+<tl><x>177</x><y>53</y></tl>
+<tr><x>190</x><y>53</y></tr>
+<bl><x>177</x><y>104</y></bl>
+<br><x>190</x><y>104</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5080</timestamp>
+<value>
+<tl><x>176</x><y>55</y></tl>
+<tr><x>189</x><y>55</y></tr>
+<bl><x>176</x><y>106</y></bl>
+<br><x>189</x><y>106</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5120</timestamp>
+<value>
+<tl><x>176</x><y>55</y></tl>
+<tr><x>189</x><y>55</y></tr>
+<bl><x>176</x><y>106</y></bl>
+<br><x>189</x><y>106</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5160</timestamp>
+<value>
+<tl><x>175</x><y>56</y></tl>
+<tr><x>188</x><y>56</y></tr>
+<bl><x>175</x><y>107</y></bl>
+<br><x>188</x><y>107</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5200</timestamp>
+<value>
+<tl><x>175</x><y>56</y></tl>
+<tr><x>188</x><y>56</y></tr>
+<bl><x>175</x><y>107</y></bl>
+<br><x>188</x><y>107</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5240</timestamp>
+<value>
+<tl><x>174</x><y>55</y></tl>
+<tr><x>187</x><y>55</y></tr>
+<bl><x>174</x><y>106</y></bl>
+<br><x>187</x><y>106</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5280</timestamp>
+<value>
+<tl><x>175</x><y>53</y></tl>
+<tr><x>188</x><y>53</y></tr>
+<bl><x>175</x><y>104</y></bl>
+<br><x>188</x><y>104</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5320</timestamp>
+<value>
+<tl><x>174</x><y>53</y></tl>
+<tr><x>187</x><y>53</y></tr>
+<bl><x>174</x><y>104</y></bl>
+<br><x>187</x><y>104</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5360</timestamp>
+<value>
+<tl><x>173</x><y>52</y></tl>
+<tr><x>186</x><y>52</y></tr>
+<bl><x>173</x><y>103</y></bl>
+<br><x>186</x><y>103</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5400</timestamp>
+<value>
+<tl><x>172</x><y>49</y></tl>
+<tr><x>185</x><y>49</y></tr>
+<bl><x>172</x><y>100</y></bl>
+<br><x>185</x><y>100</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
 <timestamp>5440</timestamp>
 <value>
-<tl><x>174</x><y>50</y></tl>
-<tr><x>187</x><y>50</y></tr>
-<bl><x>174</x><y>101</y></bl>
-<br><x>187</x><y>101</y></br>
+<tl><x>174</x><y>47</y></tl>
+<tr><x>187</x><y>47</y></tr>
+<bl><x>174</x><y>98</y></bl>
+<br><x>187</x><y>98</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1788,10 +1788,10 @@
 <event type="face" id="0">
 <timestamp>5480</timestamp>
 <value>
-<tl><x>176</x><y>47</y></tl>
-<tr><x>189</x><y>47</y></tr>
-<bl><x>176</x><y>98</y></bl>
-<br><x>189</x><y>98</y></br>
+<tl><x>176</x><y>44</y></tl>
+<tr><x>189</x><y>44</y></tr>
+<bl><x>176</x><y>95</y></bl>
+<br><x>189</x><y>95</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1801,10 +1801,10 @@
 <event type="face" id="0">
 <timestamp>5520</timestamp>
 <value>
-<tl><x>178</x><y>46</y></tl>
-<tr><x>191</x><y>46</y></tr>
-<bl><x>178</x><y>97</y></bl>
-<br><x>191</x><y>97</y></br>
+<tl><x>178</x><y>43</y></tl>
+<tr><x>191</x><y>43</y></tr>
+<bl><x>178</x><y>94</y></bl>
+<br><x>191</x><y>94</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1814,10 +1814,10 @@
 <event type="face" id="0">
 <timestamp>5560</timestamp>
 <value>
-<tl><x>180</x><y>44</y></tl>
-<tr><x>193</x><y>44</y></tr>
-<bl><x>180</x><y>95</y></bl>
-<br><x>193</x><y>95</y></br>
+<tl><x>181</x><y>43</y></tl>
+<tr><x>194</x><y>43</y></tr>
+<bl><x>181</x><y>94</y></bl>
+<br><x>194</x><y>94</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1827,10 +1827,10 @@
 <event type="face" id="0">
 <timestamp>5600</timestamp>
 <value>
-<tl><x>185</x><y>44</y></tl>
-<tr><x>198</x><y>44</y></tr>
-<bl><x>185</x><y>95</y></bl>
-<br><x>198</x><y>95</y></br>
+<tl><x>184</x><y>43</y></tl>
+<tr><x>197</x><y>43</y></tr>
+<bl><x>184</x><y>94</y></bl>
+<br><x>197</x><y>94</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1840,10 +1840,10 @@
 <event type="face" id="0">
 <timestamp>5640</timestamp>
 <value>
-<tl><x>188</x><y>45</y></tl>
-<tr><x>201</x><y>45</y></tr>
-<bl><x>188</x><y>96</y></bl>
-<br><x>201</x><y>96</y></br>
+<tl><x>186</x><y>44</y></tl>
+<tr><x>199</x><y>44</y></tr>
+<bl><x>186</x><y>95</y></bl>
+<br><x>199</x><y>95</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1853,10 +1853,10 @@
 <event type="face" id="0">
 <timestamp>5680</timestamp>
 <value>
-<tl><x>190</x><y>47</y></tl>
-<tr><x>203</x><y>47</y></tr>
-<bl><x>190</x><y>98</y></bl>
-<br><x>203</x><y>98</y></br>
+<tl><x>189</x><y>46</y></tl>
+<tr><x>202</x><y>46</y></tr>
+<bl><x>189</x><y>97</y></bl>
+<br><x>202</x><y>97</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1866,10 +1866,10 @@
 <event type="face" id="0">
 <timestamp>5720</timestamp>
 <value>
-<tl><x>187</x><y>49</y></tl>
-<tr><x>200</x><y>49</y></tr>
-<bl><x>187</x><y>100</y></bl>
-<br><x>200</x><y>100</y></br>
+<tl><x>188</x><y>47</y></tl>
+<tr><x>201</x><y>47</y></tr>
+<bl><x>188</x><y>98</y></bl>
+<br><x>201</x><y>98</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1878,6 +1878,19 @@
 
 <event type="face" id="0">
 <timestamp>5760</timestamp>
+<value>
+<tl><x>185</x><y>49</y></tl>
+<tr><x>198</x><y>49</y></tr>
+<bl><x>185</x><y>100</y></bl>
+<br><x>198</x><y>100</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>5800</timestamp>
 <value>
 <tl><x>184</x><y>50</y></tl>
 <tr><x>197</x><y>50</y></tr>
@@ -1890,25 +1903,12 @@
 
 
 <event type="face" id="0">
-<timestamp>5800</timestamp>
-<value>
-<tl><x>182</x><y>52</y></tl>
-<tr><x>195</x><y>52</y></tr>
-<bl><x>182</x><y>103</y></bl>
-<br><x>195</x><y>103</y></br>
-<pan>0.000000</pan>
-<confidence>1.000000</confidence>
-</value>
-</event>
-
-
-<event type="face" id="0">
 <timestamp>5840</timestamp>
 <value>
-<tl><x>182</x><y>51</y></tl>
-<tr><x>195</x><y>51</y></tr>
-<bl><x>182</x><y>102</y></bl>
-<br><x>195</x><y>102</y></br>
+<tl><x>184</x><y>48</y></tl>
+<tr><x>197</x><y>48</y></tr>
+<bl><x>184</x><y>99</y></bl>
+<br><x>197</x><y>99</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1918,10 +1918,10 @@
 <event type="face" id="0">
 <timestamp>5880</timestamp>
 <value>
-<tl><x>182</x><y>51</y></tl>
-<tr><x>195</x><y>51</y></tr>
-<bl><x>182</x><y>102</y></bl>
-<br><x>195</x><y>102</y></br>
+<tl><x>184</x><y>51</y></tl>
+<tr><x>197</x><y>51</y></tr>
+<bl><x>184</x><y>102</y></bl>
+<br><x>197</x><y>102</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1931,10 +1931,10 @@
 <event type="face" id="0">
 <timestamp>5920</timestamp>
 <value>
-<tl><x>182</x><y>51</y></tl>
-<tr><x>195</x><y>51</y></tr>
-<bl><x>182</x><y>102</y></bl>
-<br><x>195</x><y>102</y></br>
+<tl><x>185</x><y>50</y></tl>
+<tr><x>198</x><y>50</y></tr>
+<bl><x>185</x><y>101</y></bl>
+<br><x>198</x><y>101</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1944,10 +1944,10 @@
 <event type="face" id="0">
 <timestamp>5960</timestamp>
 <value>
-<tl><x>182</x><y>53</y></tl>
-<tr><x>195</x><y>53</y></tr>
-<bl><x>182</x><y>104</y></bl>
-<br><x>195</x><y>104</y></br>
+<tl><x>188</x><y>52</y></tl>
+<tr><x>201</x><y>52</y></tr>
+<bl><x>188</x><y>103</y></bl>
+<br><x>201</x><y>103</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1957,10 +1957,10 @@
 <event type="face" id="0">
 <timestamp>6000</timestamp>
 <value>
-<tl><x>181</x><y>54</y></tl>
-<tr><x>194</x><y>54</y></tr>
-<bl><x>181</x><y>105</y></bl>
-<br><x>194</x><y>105</y></br>
+<tl><x>187</x><y>54</y></tl>
+<tr><x>200</x><y>54</y></tr>
+<bl><x>187</x><y>105</y></bl>
+<br><x>200</x><y>105</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1970,10 +1970,10 @@
 <event type="face" id="0">
 <timestamp>6040</timestamp>
 <value>
-<tl><x>182</x><y>54</y></tl>
-<tr><x>195</x><y>54</y></tr>
-<bl><x>182</x><y>105</y></bl>
-<br><x>195</x><y>105</y></br>
+<tl><x>188</x><y>56</y></tl>
+<tr><x>201</x><y>56</y></tr>
+<bl><x>188</x><y>107</y></bl>
+<br><x>201</x><y>107</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1983,10 +1983,10 @@
 <event type="face" id="0">
 <timestamp>6080</timestamp>
 <value>
-<tl><x>183</x><y>56</y></tl>
-<tr><x>196</x><y>56</y></tr>
-<bl><x>183</x><y>107</y></bl>
-<br><x>196</x><y>107</y></br>
+<tl><x>188</x><y>58</y></tl>
+<tr><x>201</x><y>58</y></tr>
+<bl><x>188</x><y>109</y></bl>
+<br><x>201</x><y>109</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -1996,10 +1996,10 @@
 <event type="face" id="0">
 <timestamp>6120</timestamp>
 <value>
-<tl><x>183</x><y>57</y></tl>
-<tr><x>196</x><y>57</y></tr>
-<bl><x>183</x><y>108</y></bl>
-<br><x>196</x><y>108</y></br>
+<tl><x>187</x><y>58</y></tl>
+<tr><x>200</x><y>58</y></tr>
+<bl><x>187</x><y>109</y></bl>
+<br><x>200</x><y>109</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2009,10 +2009,10 @@
 <event type="face" id="0">
 <timestamp>6160</timestamp>
 <value>
-<tl><x>184</x><y>61</y></tl>
-<tr><x>197</x><y>61</y></tr>
-<bl><x>184</x><y>112</y></bl>
-<br><x>197</x><y>112</y></br>
+<tl><x>186</x><y>61</y></tl>
+<tr><x>199</x><y>61</y></tr>
+<bl><x>186</x><y>112</y></bl>
+<br><x>199</x><y>112</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2022,10 +2022,10 @@
 <event type="face" id="0">
 <timestamp>6200</timestamp>
 <value>
-<tl><x>184</x><y>65</y></tl>
-<tr><x>197</x><y>65</y></tr>
-<bl><x>184</x><y>116</y></bl>
-<br><x>197</x><y>116</y></br>
+<tl><x>186</x><y>63</y></tl>
+<tr><x>199</x><y>63</y></tr>
+<bl><x>186</x><y>114</y></bl>
+<br><x>199</x><y>114</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2035,10 +2035,10 @@
 <event type="face" id="0">
 <timestamp>6240</timestamp>
 <value>
-<tl><x>186</x><y>66</y></tl>
-<tr><x>199</x><y>66</y></tr>
-<bl><x>186</x><y>117</y></bl>
-<br><x>199</x><y>117</y></br>
+<tl><x>186</x><y>64</y></tl>
+<tr><x>199</x><y>64</y></tr>
+<bl><x>186</x><y>115</y></bl>
+<br><x>199</x><y>115</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2048,10 +2048,10 @@
 <event type="face" id="0">
 <timestamp>6280</timestamp>
 <value>
-<tl><x>186</x><y>66</y></tl>
-<tr><x>199</x><y>66</y></tr>
-<bl><x>186</x><y>117</y></bl>
-<br><x>199</x><y>117</y></br>
+<tl><x>186</x><y>65</y></tl>
+<tr><x>199</x><y>65</y></tr>
+<bl><x>186</x><y>116</y></bl>
+<br><x>199</x><y>116</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2061,10 +2061,10 @@
 <event type="face" id="0">
 <timestamp>6320</timestamp>
 <value>
-<tl><x>183</x><y>65</y></tl>
-<tr><x>196</x><y>65</y></tr>
-<bl><x>183</x><y>116</y></bl>
-<br><x>196</x><y>116</y></br>
+<tl><x>183</x><y>66</y></tl>
+<tr><x>196</x><y>66</y></tr>
+<bl><x>183</x><y>117</y></bl>
+<br><x>196</x><y>117</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2074,10 +2074,10 @@
 <event type="face" id="0">
 <timestamp>6360</timestamp>
 <value>
-<tl><x>182</x><y>64</y></tl>
-<tr><x>195</x><y>64</y></tr>
-<bl><x>182</x><y>115</y></bl>
-<br><x>195</x><y>115</y></br>
+<tl><x>181</x><y>66</y></tl>
+<tr><x>194</x><y>66</y></tr>
+<bl><x>181</x><y>117</y></bl>
+<br><x>194</x><y>117</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2087,10 +2087,10 @@
 <event type="face" id="0">
 <timestamp>6400</timestamp>
 <value>
-<tl><x>183</x><y>65</y></tl>
-<tr><x>196</x><y>65</y></tr>
-<bl><x>183</x><y>116</y></bl>
-<br><x>196</x><y>116</y></br>
+<tl><x>180</x><y>68</y></tl>
+<tr><x>193</x><y>68</y></tr>
+<bl><x>180</x><y>119</y></bl>
+<br><x>193</x><y>119</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2100,10 +2100,10 @@
 <event type="face" id="0">
 <timestamp>6440</timestamp>
 <value>
-<tl><x>183</x><y>68</y></tl>
-<tr><x>196</x><y>68</y></tr>
-<bl><x>183</x><y>119</y></bl>
-<br><x>196</x><y>119</y></br>
+<tl><x>179</x><y>68</y></tl>
+<tr><x>192</x><y>68</y></tr>
+<bl><x>179</x><y>119</y></bl>
+<br><x>192</x><y>119</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2113,10 +2113,10 @@
 <event type="face" id="0">
 <timestamp>6480</timestamp>
 <value>
-<tl><x>182</x><y>69</y></tl>
-<tr><x>195</x><y>69</y></tr>
-<bl><x>182</x><y>120</y></bl>
-<br><x>195</x><y>120</y></br>
+<tl><x>177</x><y>69</y></tl>
+<tr><x>190</x><y>69</y></tr>
+<bl><x>177</x><y>120</y></bl>
+<br><x>190</x><y>120</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2126,10 +2126,10 @@
 <event type="face" id="0">
 <timestamp>6520</timestamp>
 <value>
-<tl><x>182</x><y>68</y></tl>
-<tr><x>195</x><y>68</y></tr>
-<bl><x>182</x><y>119</y></bl>
-<br><x>195</x><y>119</y></br>
+<tl><x>178</x><y>72</y></tl>
+<tr><x>191</x><y>72</y></tr>
+<bl><x>178</x><y>123</y></bl>
+<br><x>191</x><y>123</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2139,10 +2139,10 @@
 <event type="face" id="0">
 <timestamp>6560</timestamp>
 <value>
-<tl><x>180</x><y>69</y></tl>
-<tr><x>193</x><y>69</y></tr>
-<bl><x>180</x><y>120</y></bl>
-<br><x>193</x><y>120</y></br>
+<tl><x>178</x><y>73</y></tl>
+<tr><x>191</x><y>73</y></tr>
+<bl><x>178</x><y>124</y></bl>
+<br><x>191</x><y>124</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2152,10 +2152,10 @@
 <event type="face" id="0">
 <timestamp>6600</timestamp>
 <value>
-<tl><x>180</x><y>71</y></tl>
-<tr><x>193</x><y>71</y></tr>
-<bl><x>180</x><y>122</y></bl>
-<br><x>193</x><y>122</y></br>
+<tl><x>177</x><y>74</y></tl>
+<tr><x>190</x><y>74</y></tr>
+<bl><x>177</x><y>125</y></bl>
+<br><x>190</x><y>125</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2165,10 +2165,10 @@
 <event type="face" id="0">
 <timestamp>6640</timestamp>
 <value>
-<tl><x>180</x><y>73</y></tl>
-<tr><x>193</x><y>73</y></tr>
-<bl><x>180</x><y>124</y></bl>
-<br><x>193</x><y>124</y></br>
+<tl><x>175</x><y>76</y></tl>
+<tr><x>188</x><y>76</y></tr>
+<bl><x>175</x><y>127</y></bl>
+<br><x>188</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2178,10 +2178,10 @@
 <event type="face" id="0">
 <timestamp>6680</timestamp>
 <value>
-<tl><x>180</x><y>74</y></tl>
-<tr><x>193</x><y>74</y></tr>
-<bl><x>180</x><y>125</y></bl>
-<br><x>193</x><y>125</y></br>
+<tl><x>176</x><y>74</y></tl>
+<tr><x>189</x><y>74</y></tr>
+<bl><x>176</x><y>125</y></bl>
+<br><x>189</x><y>125</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2191,10 +2191,10 @@
 <event type="face" id="0">
 <timestamp>6720</timestamp>
 <value>
-<tl><x>181</x><y>76</y></tl>
-<tr><x>194</x><y>76</y></tr>
-<bl><x>181</x><y>127</y></bl>
-<br><x>194</x><y>127</y></br>
+<tl><x>175</x><y>74</y></tl>
+<tr><x>188</x><y>74</y></tr>
+<bl><x>175</x><y>125</y></bl>
+<br><x>188</x><y>125</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2204,10 +2204,10 @@
 <event type="face" id="0">
 <timestamp>6760</timestamp>
 <value>
-<tl><x>181</x><y>77</y></tl>
-<tr><x>194</x><y>77</y></tr>
-<bl><x>181</x><y>128</y></bl>
-<br><x>194</x><y>128</y></br>
+<tl><x>174</x><y>75</y></tl>
+<tr><x>187</x><y>75</y></tr>
+<bl><x>174</x><y>126</y></bl>
+<br><x>187</x><y>126</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2217,10 +2217,10 @@
 <event type="face" id="0">
 <timestamp>6800</timestamp>
 <value>
-<tl><x>179</x><y>76</y></tl>
-<tr><x>192</x><y>76</y></tr>
-<bl><x>179</x><y>127</y></bl>
-<br><x>192</x><y>127</y></br>
+<tl><x>172</x><y>72</y></tl>
+<tr><x>185</x><y>72</y></tr>
+<bl><x>172</x><y>123</y></bl>
+<br><x>185</x><y>123</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2230,10 +2230,10 @@
 <event type="face" id="0">
 <timestamp>6840</timestamp>
 <value>
-<tl><x>181</x><y>79</y></tl>
-<tr><x>194</x><y>79</y></tr>
-<bl><x>181</x><y>130</y></bl>
-<br><x>194</x><y>130</y></br>
+<tl><x>171</x><y>66</y></tl>
+<tr><x>184</x><y>66</y></tr>
+<bl><x>171</x><y>117</y></bl>
+<br><x>184</x><y>117</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2243,10 +2243,10 @@
 <event type="face" id="0">
 <timestamp>6880</timestamp>
 <value>
-<tl><x>180</x><y>80</y></tl>
-<tr><x>193</x><y>80</y></tr>
-<bl><x>180</x><y>131</y></bl>
-<br><x>193</x><y>131</y></br>
+<tl><x>170</x><y>66</y></tl>
+<tr><x>183</x><y>66</y></tr>
+<bl><x>170</x><y>117</y></bl>
+<br><x>183</x><y>117</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2256,10 +2256,10 @@
 <event type="face" id="0">
 <timestamp>6920</timestamp>
 <value>
-<tl><x>179</x><y>80</y></tl>
-<tr><x>192</x><y>80</y></tr>
-<bl><x>179</x><y>131</y></bl>
-<br><x>192</x><y>131</y></br>
+<tl><x>176</x><y>67</y></tl>
+<tr><x>189</x><y>67</y></tr>
+<bl><x>176</x><y>118</y></bl>
+<br><x>189</x><y>118</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2269,10 +2269,10 @@
 <event type="face" id="0">
 <timestamp>6960</timestamp>
 <value>
-<tl><x>180</x><y>80</y></tl>
-<tr><x>193</x><y>80</y></tr>
-<bl><x>180</x><y>131</y></bl>
-<br><x>193</x><y>131</y></br>
+<tl><x>177</x><y>70</y></tl>
+<tr><x>190</x><y>70</y></tr>
+<bl><x>177</x><y>121</y></bl>
+<br><x>190</x><y>121</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2282,10 +2282,10 @@
 <event type="face" id="0">
 <timestamp>7000</timestamp>
 <value>
-<tl><x>183</x><y>81</y></tl>
-<tr><x>196</x><y>81</y></tr>
-<bl><x>183</x><y>132</y></bl>
-<br><x>196</x><y>132</y></br>
+<tl><x>178</x><y>74</y></tl>
+<tr><x>191</x><y>74</y></tr>
+<bl><x>178</x><y>125</y></bl>
+<br><x>191</x><y>125</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2295,10 +2295,10 @@
 <event type="face" id="0">
 <timestamp>7040</timestamp>
 <value>
-<tl><x>185</x><y>81</y></tl>
-<tr><x>198</x><y>81</y></tr>
-<bl><x>185</x><y>132</y></bl>
-<br><x>198</x><y>132</y></br>
+<tl><x>178</x><y>77</y></tl>
+<tr><x>191</x><y>77</y></tr>
+<bl><x>178</x><y>128</y></bl>
+<br><x>191</x><y>128</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2308,10 +2308,10 @@
 <event type="face" id="0">
 <timestamp>7080</timestamp>
 <value>
-<tl><x>182</x><y>82</y></tl>
-<tr><x>195</x><y>82</y></tr>
-<bl><x>182</x><y>133</y></bl>
-<br><x>195</x><y>133</y></br>
+<tl><x>177</x><y>75</y></tl>
+<tr><x>190</x><y>75</y></tr>
+<bl><x>177</x><y>126</y></bl>
+<br><x>190</x><y>126</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2321,10 +2321,10 @@
 <event type="face" id="0">
 <timestamp>7120</timestamp>
 <value>
-<tl><x>182</x><y>79</y></tl>
-<tr><x>195</x><y>79</y></tr>
-<bl><x>182</x><y>130</y></bl>
-<br><x>195</x><y>130</y></br>
+<tl><x>176</x><y>77</y></tl>
+<tr><x>189</x><y>77</y></tr>
+<bl><x>176</x><y>128</y></bl>
+<br><x>189</x><y>128</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2334,10 +2334,10 @@
 <event type="face" id="0">
 <timestamp>7160</timestamp>
 <value>
-<tl><x>184</x><y>80</y></tl>
-<tr><x>197</x><y>80</y></tr>
-<bl><x>184</x><y>131</y></bl>
-<br><x>197</x><y>131</y></br>
+<tl><x>175</x><y>76</y></tl>
+<tr><x>188</x><y>76</y></tr>
+<bl><x>175</x><y>127</y></bl>
+<br><x>188</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2347,10 +2347,10 @@
 <event type="face" id="0">
 <timestamp>7200</timestamp>
 <value>
-<tl><x>183</x><y>80</y></tl>
-<tr><x>196</x><y>80</y></tr>
-<bl><x>183</x><y>131</y></bl>
-<br><x>196</x><y>131</y></br>
+<tl><x>174</x><y>78</y></tl>
+<tr><x>187</x><y>78</y></tr>
+<bl><x>174</x><y>129</y></bl>
+<br><x>187</x><y>129</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2360,10 +2360,10 @@
 <event type="face" id="0">
 <timestamp>7240</timestamp>
 <value>
-<tl><x>181</x><y>80</y></tl>
-<tr><x>194</x><y>80</y></tr>
-<bl><x>181</x><y>131</y></bl>
-<br><x>194</x><y>131</y></br>
+<tl><x>173</x><y>77</y></tl>
+<tr><x>186</x><y>77</y></tr>
+<bl><x>173</x><y>128</y></bl>
+<br><x>186</x><y>128</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2373,10 +2373,10 @@
 <event type="face" id="0">
 <timestamp>7280</timestamp>
 <value>
-<tl><x>179</x><y>79</y></tl>
-<tr><x>192</x><y>79</y></tr>
-<bl><x>179</x><y>130</y></bl>
-<br><x>192</x><y>130</y></br>
+<tl><x>173</x><y>75</y></tl>
+<tr><x>186</x><y>75</y></tr>
+<bl><x>173</x><y>126</y></bl>
+<br><x>186</x><y>126</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2386,10 +2386,10 @@
 <event type="face" id="0">
 <timestamp>7320</timestamp>
 <value>
-<tl><x>176</x><y>80</y></tl>
-<tr><x>189</x><y>80</y></tr>
-<bl><x>176</x><y>131</y></bl>
-<br><x>189</x><y>131</y></br>
+<tl><x>172</x><y>75</y></tl>
+<tr><x>185</x><y>75</y></tr>
+<bl><x>172</x><y>126</y></bl>
+<br><x>185</x><y>126</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2399,10 +2399,10 @@
 <event type="face" id="0">
 <timestamp>7360</timestamp>
 <value>
-<tl><x>176</x><y>79</y></tl>
-<tr><x>189</x><y>79</y></tr>
-<bl><x>176</x><y>130</y></bl>
-<br><x>189</x><y>130</y></br>
+<tl><x>171</x><y>75</y></tl>
+<tr><x>184</x><y>75</y></tr>
+<bl><x>171</x><y>126</y></bl>
+<br><x>184</x><y>126</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2412,10 +2412,10 @@
 <event type="face" id="0">
 <timestamp>7400</timestamp>
 <value>
-<tl><x>176</x><y>81</y></tl>
-<tr><x>189</x><y>81</y></tr>
-<bl><x>176</x><y>132</y></bl>
-<br><x>189</x><y>132</y></br>
+<tl><x>171</x><y>76</y></tl>
+<tr><x>184</x><y>76</y></tr>
+<bl><x>171</x><y>127</y></bl>
+<br><x>184</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2425,10 +2425,10 @@
 <event type="face" id="0">
 <timestamp>7440</timestamp>
 <value>
-<tl><x>175</x><y>81</y></tl>
-<tr><x>188</x><y>81</y></tr>
-<bl><x>175</x><y>132</y></bl>
-<br><x>188</x><y>132</y></br>
+<tl><x>169</x><y>76</y></tl>
+<tr><x>182</x><y>76</y></tr>
+<bl><x>169</x><y>127</y></bl>
+<br><x>182</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2438,10 +2438,10 @@
 <event type="face" id="0">
 <timestamp>7480</timestamp>
 <value>
-<tl><x>174</x><y>82</y></tl>
-<tr><x>187</x><y>82</y></tr>
-<bl><x>174</x><y>133</y></bl>
-<br><x>187</x><y>133</y></br>
+<tl><x>168</x><y>76</y></tl>
+<tr><x>181</x><y>76</y></tr>
+<bl><x>168</x><y>127</y></bl>
+<br><x>181</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2451,10 +2451,10 @@
 <event type="face" id="0">
 <timestamp>7520</timestamp>
 <value>
-<tl><x>175</x><y>82</y></tl>
-<tr><x>188</x><y>82</y></tr>
-<bl><x>175</x><y>133</y></bl>
-<br><x>188</x><y>133</y></br>
+<tl><x>166</x><y>75</y></tl>
+<tr><x>179</x><y>75</y></tr>
+<bl><x>166</x><y>126</y></bl>
+<br><x>179</x><y>126</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2464,10 +2464,10 @@
 <event type="face" id="0">
 <timestamp>7560</timestamp>
 <value>
-<tl><x>172</x><y>82</y></tl>
-<tr><x>185</x><y>82</y></tr>
-<bl><x>172</x><y>133</y></bl>
-<br><x>185</x><y>133</y></br>
+<tl><x>166</x><y>76</y></tl>
+<tr><x>179</x><y>76</y></tr>
+<bl><x>166</x><y>127</y></bl>
+<br><x>179</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2477,10 +2477,10 @@
 <event type="face" id="0">
 <timestamp>7600</timestamp>
 <value>
-<tl><x>171</x><y>83</y></tl>
-<tr><x>184</x><y>83</y></tr>
-<bl><x>171</x><y>134</y></bl>
-<br><x>184</x><y>134</y></br>
+<tl><x>165</x><y>77</y></tl>
+<tr><x>178</x><y>77</y></tr>
+<bl><x>165</x><y>128</y></bl>
+<br><x>178</x><y>128</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2490,10 +2490,10 @@
 <event type="face" id="0">
 <timestamp>7640</timestamp>
 <value>
-<tl><x>169</x><y>85</y></tl>
-<tr><x>182</x><y>85</y></tr>
-<bl><x>169</x><y>136</y></bl>
-<br><x>182</x><y>136</y></br>
+<tl><x>163</x><y>79</y></tl>
+<tr><x>176</x><y>79</y></tr>
+<bl><x>163</x><y>130</y></bl>
+<br><x>176</x><y>130</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2503,10 +2503,10 @@
 <event type="face" id="0">
 <timestamp>7680</timestamp>
 <value>
-<tl><x>169</x><y>85</y></tl>
-<tr><x>182</x><y>85</y></tr>
-<bl><x>169</x><y>136</y></bl>
-<br><x>182</x><y>136</y></br>
+<tl><x>161</x><y>81</y></tl>
+<tr><x>174</x><y>81</y></tr>
+<bl><x>161</x><y>132</y></bl>
+<br><x>174</x><y>132</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2516,10 +2516,10 @@
 <event type="face" id="0">
 <timestamp>7720</timestamp>
 <value>
-<tl><x>170</x><y>84</y></tl>
-<tr><x>183</x><y>84</y></tr>
-<bl><x>170</x><y>135</y></bl>
-<br><x>183</x><y>135</y></br>
+<tl><x>161</x><y>81</y></tl>
+<tr><x>174</x><y>81</y></tr>
+<bl><x>161</x><y>132</y></bl>
+<br><x>174</x><y>132</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2529,10 +2529,10 @@
 <event type="face" id="0">
 <timestamp>7760</timestamp>
 <value>
-<tl><x>167</x><y>84</y></tl>
-<tr><x>180</x><y>84</y></tr>
-<bl><x>167</x><y>135</y></bl>
-<br><x>180</x><y>135</y></br>
+<tl><x>160</x><y>79</y></tl>
+<tr><x>173</x><y>79</y></tr>
+<bl><x>160</x><y>130</y></bl>
+<br><x>173</x><y>130</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2542,10 +2542,10 @@
 <event type="face" id="0">
 <timestamp>7800</timestamp>
 <value>
-<tl><x>167</x><y>84</y></tl>
-<tr><x>180</x><y>84</y></tr>
-<bl><x>167</x><y>135</y></bl>
-<br><x>180</x><y>135</y></br>
+<tl><x>162</x><y>77</y></tl>
+<tr><x>175</x><y>77</y></tr>
+<bl><x>162</x><y>128</y></bl>
+<br><x>175</x><y>128</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2555,10 +2555,10 @@
 <event type="face" id="0">
 <timestamp>7840</timestamp>
 <value>
-<tl><x>167</x><y>84</y></tl>
-<tr><x>180</x><y>84</y></tr>
-<bl><x>167</x><y>135</y></bl>
-<br><x>180</x><y>135</y></br>
+<tl><x>161</x><y>76</y></tl>
+<tr><x>174</x><y>76</y></tr>
+<bl><x>161</x><y>127</y></bl>
+<br><x>174</x><y>127</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2568,10 +2568,10 @@
 <event type="face" id="0">
 <timestamp>7880</timestamp>
 <value>
-<tl><x>166</x><y>84</y></tl>
-<tr><x>179</x><y>84</y></tr>
-<bl><x>166</x><y>135</y></bl>
-<br><x>179</x><y>135</y></br>
+<tl><x>161</x><y>74</y></tl>
+<tr><x>174</x><y>74</y></tr>
+<bl><x>161</x><y>125</y></bl>
+<br><x>174</x><y>125</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2581,10 +2581,10 @@
 <event type="face" id="0">
 <timestamp>7920</timestamp>
 <value>
-<tl><x>164</x><y>83</y></tl>
-<tr><x>177</x><y>83</y></tr>
-<bl><x>164</x><y>134</y></bl>
-<br><x>177</x><y>134</y></br>
+<tl><x>160</x><y>72</y></tl>
+<tr><x>173</x><y>72</y></tr>
+<bl><x>160</x><y>123</y></bl>
+<br><x>173</x><y>123</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2594,10 +2594,10 @@
 <event type="face" id="0">
 <timestamp>7960</timestamp>
 <value>
-<tl><x>164</x><y>82</y></tl>
-<tr><x>177</x><y>82</y></tr>
-<bl><x>164</x><y>133</y></bl>
-<br><x>177</x><y>133</y></br>
+<tl><x>161</x><y>70</y></tl>
+<tr><x>174</x><y>70</y></tr>
+<bl><x>161</x><y>121</y></bl>
+<br><x>174</x><y>121</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2607,10 +2607,10 @@
 <event type="face" id="0">
 <timestamp>8000</timestamp>
 <value>
-<tl><x>164</x><y>80</y></tl>
-<tr><x>177</x><y>80</y></tr>
-<bl><x>164</x><y>131</y></bl>
-<br><x>177</x><y>131</y></br>
+<tl><x>161</x><y>68</y></tl>
+<tr><x>174</x><y>68</y></tr>
+<bl><x>161</x><y>119</y></bl>
+<br><x>174</x><y>119</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2620,10 +2620,10 @@
 <event type="face" id="0">
 <timestamp>8040</timestamp>
 <value>
-<tl><x>164</x><y>80</y></tl>
-<tr><x>177</x><y>80</y></tr>
-<bl><x>164</x><y>131</y></bl>
-<br><x>177</x><y>131</y></br>
+<tl><x>161</x><y>66</y></tl>
+<tr><x>174</x><y>66</y></tr>
+<bl><x>161</x><y>117</y></bl>
+<br><x>174</x><y>117</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2633,10 +2633,10 @@
 <event type="face" id="0">
 <timestamp>8080</timestamp>
 <value>
-<tl><x>164</x><y>78</y></tl>
-<tr><x>177</x><y>78</y></tr>
-<bl><x>164</x><y>129</y></bl>
-<br><x>177</x><y>129</y></br>
+<tl><x>161</x><y>64</y></tl>
+<tr><x>174</x><y>64</y></tr>
+<bl><x>161</x><y>115</y></bl>
+<br><x>174</x><y>115</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2646,10 +2646,10 @@
 <event type="face" id="0">
 <timestamp>8120</timestamp>
 <value>
-<tl><x>164</x><y>78</y></tl>
-<tr><x>177</x><y>78</y></tr>
-<bl><x>164</x><y>129</y></bl>
-<br><x>177</x><y>129</y></br>
+<tl><x>161</x><y>63</y></tl>
+<tr><x>174</x><y>63</y></tr>
+<bl><x>161</x><y>114</y></bl>
+<br><x>174</x><y>114</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2659,10 +2659,10 @@
 <event type="face" id="0">
 <timestamp>8160</timestamp>
 <value>
-<tl><x>164</x><y>78</y></tl>
-<tr><x>177</x><y>78</y></tr>
-<bl><x>164</x><y>129</y></bl>
-<br><x>177</x><y>129</y></br>
+<tl><x>159</x><y>61</y></tl>
+<tr><x>172</x><y>61</y></tr>
+<bl><x>159</x><y>112</y></bl>
+<br><x>172</x><y>112</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2672,10 +2672,10 @@
 <event type="face" id="0">
 <timestamp>8200</timestamp>
 <value>
-<tl><x>163</x><y>78</y></tl>
-<tr><x>176</x><y>78</y></tr>
-<bl><x>163</x><y>129</y></bl>
-<br><x>176</x><y>129</y></br>
+<tl><x>157</x><y>55</y></tl>
+<tr><x>170</x><y>55</y></tr>
+<bl><x>157</x><y>106</y></bl>
+<br><x>170</x><y>106</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2685,10 +2685,10 @@
 <event type="face" id="0">
 <timestamp>8240</timestamp>
 <value>
-<tl><x>163</x><y>77</y></tl>
-<tr><x>176</x><y>77</y></tr>
-<bl><x>163</x><y>128</y></bl>
-<br><x>176</x><y>128</y></br>
+<tl><x>156</x><y>48</y></tl>
+<tr><x>169</x><y>48</y></tr>
+<bl><x>156</x><y>99</y></bl>
+<br><x>169</x><y>99</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2698,10 +2698,10 @@
 <event type="face" id="0">
 <timestamp>8280</timestamp>
 <value>
-<tl><x>162</x><y>76</y></tl>
-<tr><x>175</x><y>76</y></tr>
-<bl><x>162</x><y>127</y></bl>
-<br><x>175</x><y>127</y></br>
+<tl><x>154</x><y>42</y></tl>
+<tr><x>167</x><y>42</y></tr>
+<bl><x>154</x><y>93</y></bl>
+<br><x>167</x><y>93</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2711,10 +2711,10 @@
 <event type="face" id="0">
 <timestamp>8320</timestamp>
 <value>
-<tl><x>165</x><y>76</y></tl>
-<tr><x>178</x><y>76</y></tr>
-<bl><x>165</x><y>127</y></bl>
-<br><x>178</x><y>127</y></br>
+<tl><x>153</x><y>41</y></tl>
+<tr><x>166</x><y>41</y></tr>
+<bl><x>153</x><y>92</y></bl>
+<br><x>166</x><y>92</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2724,10 +2724,10 @@
 <event type="face" id="0">
 <timestamp>8360</timestamp>
 <value>
-<tl><x>167</x><y>76</y></tl>
-<tr><x>180</x><y>76</y></tr>
-<bl><x>167</x><y>127</y></bl>
-<br><x>180</x><y>127</y></br>
+<tl><x>152</x><y>38</y></tl>
+<tr><x>165</x><y>38</y></tr>
+<bl><x>152</x><y>89</y></bl>
+<br><x>165</x><y>89</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2737,10 +2737,10 @@
 <event type="face" id="0">
 <timestamp>8400</timestamp>
 <value>
-<tl><x>170</x><y>76</y></tl>
-<tr><x>183</x><y>76</y></tr>
-<bl><x>170</x><y>127</y></bl>
-<br><x>183</x><y>127</y></br>
+<tl><x>148</x><y>31</y></tl>
+<tr><x>161</x><y>31</y></tr>
+<bl><x>148</x><y>82</y></bl>
+<br><x>161</x><y>82</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2750,10 +2750,10 @@
 <event type="face" id="0">
 <timestamp>8440</timestamp>
 <value>
-<tl><x>170</x><y>76</y></tl>
-<tr><x>183</x><y>76</y></tr>
-<bl><x>170</x><y>127</y></bl>
-<br><x>183</x><y>127</y></br>
+<tl><x>145</x><y>25</y></tl>
+<tr><x>158</x><y>25</y></tr>
+<bl><x>145</x><y>76</y></bl>
+<br><x>158</x><y>76</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2763,10 +2763,10 @@
 <event type="face" id="0">
 <timestamp>8480</timestamp>
 <value>
-<tl><x>170</x><y>76</y></tl>
-<tr><x>183</x><y>76</y></tr>
-<bl><x>170</x><y>127</y></bl>
-<br><x>183</x><y>127</y></br>
+<tl><x>145</x><y>23</y></tl>
+<tr><x>158</x><y>23</y></tr>
+<bl><x>145</x><y>74</y></bl>
+<br><x>158</x><y>74</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2776,10 +2776,10 @@
 <event type="face" id="0">
 <timestamp>8520</timestamp>
 <value>
-<tl><x>171</x><y>77</y></tl>
-<tr><x>184</x><y>77</y></tr>
-<bl><x>171</x><y>128</y></bl>
-<br><x>184</x><y>128</y></br>
+<tl><x>148</x><y>22</y></tl>
+<tr><x>161</x><y>22</y></tr>
+<bl><x>148</x><y>73</y></bl>
+<br><x>161</x><y>73</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2789,10 +2789,10 @@
 <event type="face" id="0">
 <timestamp>8560</timestamp>
 <value>
-<tl><x>172</x><y>77</y></tl>
-<tr><x>185</x><y>77</y></tr>
-<bl><x>172</x><y>128</y></bl>
-<br><x>185</x><y>128</y></br>
+<tl><x>149</x><y>22</y></tl>
+<tr><x>162</x><y>22</y></tr>
+<bl><x>149</x><y>73</y></bl>
+<br><x>162</x><y>73</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2802,10 +2802,10 @@
 <event type="face" id="0">
 <timestamp>8600</timestamp>
 <value>
-<tl><x>173</x><y>78</y></tl>
-<tr><x>186</x><y>78</y></tr>
-<bl><x>173</x><y>129</y></bl>
-<br><x>186</x><y>129</y></br>
+<tl><x>148</x><y>18</y></tl>
+<tr><x>161</x><y>18</y></tr>
+<bl><x>148</x><y>69</y></bl>
+<br><x>161</x><y>69</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2815,10 +2815,10 @@
 <event type="face" id="0">
 <timestamp>8640</timestamp>
 <value>
-<tl><x>173</x><y>78</y></tl>
-<tr><x>186</x><y>78</y></tr>
-<bl><x>173</x><y>129</y></bl>
-<br><x>186</x><y>129</y></br>
+<tl><x>147</x><y>19</y></tl>
+<tr><x>160</x><y>19</y></tr>
+<bl><x>147</x><y>70</y></bl>
+<br><x>160</x><y>70</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2828,10 +2828,10 @@
 <event type="face" id="0">
 <timestamp>8680</timestamp>
 <value>
-<tl><x>172</x><y>79</y></tl>
-<tr><x>185</x><y>79</y></tr>
-<bl><x>172</x><y>130</y></bl>
-<br><x>185</x><y>130</y></br>
+<tl><x>147</x><y>18</y></tl>
+<tr><x>160</x><y>18</y></tr>
+<bl><x>147</x><y>69</y></bl>
+<br><x>160</x><y>69</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2841,10 +2841,10 @@
 <event type="face" id="0">
 <timestamp>8720</timestamp>
 <value>
-<tl><x>174</x><y>82</y></tl>
-<tr><x>187</x><y>82</y></tr>
-<bl><x>174</x><y>133</y></bl>
-<br><x>187</x><y>133</y></br>
+<tl><x>146</x><y>11</y></tl>
+<tr><x>159</x><y>11</y></tr>
+<bl><x>146</x><y>62</y></bl>
+<br><x>159</x><y>62</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2854,10 +2854,10 @@
 <event type="face" id="0">
 <timestamp>8760</timestamp>
 <value>
-<tl><x>174</x><y>80</y></tl>
-<tr><x>187</x><y>80</y></tr>
-<bl><x>174</x><y>131</y></bl>
-<br><x>187</x><y>131</y></br>
+<tl><x>144</x><y>11</y></tl>
+<tr><x>157</x><y>11</y></tr>
+<bl><x>144</x><y>62</y></bl>
+<br><x>157</x><y>62</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2867,10 +2867,10 @@
 <event type="face" id="0">
 <timestamp>8800</timestamp>
 <value>
-<tl><x>175</x><y>83</y></tl>
-<tr><x>188</x><y>83</y></tr>
-<bl><x>175</x><y>134</y></bl>
-<br><x>188</x><y>134</y></br>
+<tl><x>144</x><y>9</y></tl>
+<tr><x>157</x><y>9</y></tr>
+<bl><x>144</x><y>60</y></bl>
+<br><x>157</x><y>60</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2880,10 +2880,10 @@
 <event type="face" id="0">
 <timestamp>8840</timestamp>
 <value>
-<tl><x>178</x><y>85</y></tl>
-<tr><x>191</x><y>85</y></tr>
-<bl><x>178</x><y>136</y></bl>
-<br><x>191</x><y>136</y></br>
+<tl><x>143</x><y>5</y></tl>
+<tr><x>156</x><y>5</y></tr>
+<bl><x>143</x><y>56</y></bl>
+<br><x>156</x><y>56</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2893,10 +2893,10 @@
 <event type="face" id="0">
 <timestamp>8880</timestamp>
 <value>
-<tl><x>180</x><y>87</y></tl>
-<tr><x>193</x><y>87</y></tr>
-<bl><x>180</x><y>138</y></bl>
-<br><x>193</x><y>138</y></br>
+<tl><x>141</x><y>7</y></tl>
+<tr><x>154</x><y>7</y></tr>
+<bl><x>141</x><y>58</y></bl>
+<br><x>154</x><y>58</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2906,10 +2906,10 @@
 <event type="face" id="0">
 <timestamp>8920</timestamp>
 <value>
-<tl><x>182</x><y>86</y></tl>
-<tr><x>195</x><y>86</y></tr>
-<bl><x>182</x><y>137</y></bl>
-<br><x>195</x><y>137</y></br>
+<tl><x>139</x><y>1</y></tl>
+<tr><x>152</x><y>1</y></tr>
+<bl><x>139</x><y>52</y></bl>
+<br><x>152</x><y>52</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2919,10 +2919,10 @@
 <event type="face" id="0">
 <timestamp>8960</timestamp>
 <value>
-<tl><x>184</x><y>88</y></tl>
-<tr><x>197</x><y>88</y></tr>
-<bl><x>184</x><y>139</y></bl>
-<br><x>197</x><y>139</y></br>
+<tl><x>137</x><y>2</y></tl>
+<tr><x>150</x><y>2</y></tr>
+<bl><x>137</x><y>53</y></bl>
+<br><x>150</x><y>53</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2932,10 +2932,10 @@
 <event type="face" id="0">
 <timestamp>9000</timestamp>
 <value>
-<tl><x>186</x><y>89</y></tl>
-<tr><x>199</x><y>89</y></tr>
-<bl><x>186</x><y>140</y></bl>
-<br><x>199</x><y>140</y></br>
+<tl><x>139</x><y>5</y></tl>
+<tr><x>152</x><y>5</y></tr>
+<bl><x>139</x><y>56</y></bl>
+<br><x>152</x><y>56</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2945,10 +2945,10 @@
 <event type="face" id="0">
 <timestamp>9040</timestamp>
 <value>
-<tl><x>186</x><y>87</y></tl>
-<tr><x>199</x><y>87</y></tr>
-<bl><x>186</x><y>138</y></bl>
-<br><x>199</x><y>138</y></br>
+<tl><x>139</x><y>6</y></tl>
+<tr><x>152</x><y>6</y></tr>
+<bl><x>139</x><y>57</y></bl>
+<br><x>152</x><y>57</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
@@ -2958,10 +2958,49 @@
 <event type="face" id="0">
 <timestamp>9080</timestamp>
 <value>
-<tl><x>186</x><y>87</y></tl>
-<tr><x>199</x><y>87</y></tr>
-<bl><x>186</x><y>138</y></bl>
-<br><x>199</x><y>138</y></br>
+<tl><x>139</x><y>2</y></tl>
+<tr><x>152</x><y>2</y></tr>
+<bl><x>139</x><y>53</y></bl>
+<br><x>152</x><y>53</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>9120</timestamp>
+<value>
+<tl><x>141</x><y>25</y></tl>
+<tr><x>154</x><y>25</y></tr>
+<bl><x>141</x><y>76</y></bl>
+<br><x>154</x><y>76</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>9160</timestamp>
+<value>
+<tl><x>144</x><y>36</y></tl>
+<tr><x>157</x><y>36</y></tr>
+<bl><x>144</x><y>87</y></bl>
+<br><x>157</x><y>87</y></br>
+<pan>0.000000</pan>
+<confidence>1.000000</confidence>
+</value>
+</event>
+
+
+<event type="face" id="0">
+<timestamp>9200</timestamp>
+<value>
+<tl><x>142</x><y>38</y></tl>
+<tr><x>155</x><y>38</y></tr>
+<bl><x>142</x><y>89</y></bl>
+<br><x>155</x><y>89</y></br>
 <pan>0.000000</pan>
 <confidence>1.000000</confidence>
 </value>
